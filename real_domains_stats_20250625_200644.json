@@ -1,0 +1,63 @@
+{
+  "input_file": "companies_master_20250625_111254.json",
+  "output_file": "companies_real_domains_20250625_200644.json",
+  "total_companies": 2598,
+  "companies_with_domains": 2598,
+  "high_confidence": 398,
+  "medium_confidence": 94,
+  "low_confidence": 2106,
+  "success_rate": 100.0,
+  "processing_time_minutes": 376.89526074727377,
+  "sample_results": [
+    {
+      "company": "Marriott International",
+      "domain": "marriott.com",
+      "confidence": "high"
+    },
+    {
+      "company": "Leidos",
+      "domain": "leidos.com",
+      "confidence": "high"
+    },
+    {
+      "company": "BrightPath Learning Solutions",
+      "domain": "brightpathlearning.com",
+      "confidence": "low"
+    },
+    {
+      "company": "XPO Logistics",
+      "domain": "xpo.com",
+      "confidence": "high"
+    },
+    {
+      "company": "Norfolk Southern Corporation",
+      "domain": "nscorp.com",
+      "confidence": "high"
+    },
+    {
+      "company": "Lockheed Martin",
+      "domain": "lockheedmartin.com",
+      "confidence": "high"
+    },
+    {
+      "company": "WaveLink Solutions",
+      "domain": "wavelinksolutions.com",
+      "confidence": "low"
+    },
+    {
+      "company": "GreenCrest Mining Solutions",
+      "domain": "greencr\u0435\u0441\u0442mining.com",
+      "confidence": "low"
+    },
+    {
+      "company": "CoverSure Analytics",
+      "domain": "coversureanalytics.com",
+      "confidence": "low"
+    },
+    {
+      "company": "Coastal Creamery Co.",
+      "domain": "coastalcreamery.com",
+      "confidence": "low"
+    }
+  ]
+}

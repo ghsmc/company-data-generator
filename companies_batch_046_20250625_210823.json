@@ -1,0 +1,5384 @@
+[
+  {
+    "company_name": "Guardian Shield Insurance",
+    "about": "Guardian Shield Insurance is a PE-backed insurance technology company focused on modernizing commercial property and casualty insurance through advanced analytics and digital-first distribution. Backed by Warburg Pincus, the company combines traditional insurance expertise with cutting-edge technology to provide innovative coverage solutions for mid-market businesses.",
+    "industry": "Insurance",
+    "company_stage": "Growth",
+    "size": "500-1000 employees",
+    "location": "Hartford, Connecticut",
+    "founded": "2015",
+    "roles": [
+      {
+        "title": "Insurance Claims Associate",
+        "department": "Claims Operations",
+        "description": "Handle first notice of loss (FNOL) and process insurance claims while providing excellent customer service to policyholders.",
+        "location": "Hartford, Connecticut",
+        "salary_range": [
+          45000,
+          55000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Claims Processing",
+          "Customer Service",
+          "MS Office",
+          "Communication"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Underwriter - Commercial Property",
+        "department": "Underwriting",
+        "description": "Evaluate and price commercial property risks, develop relationships with brokers, and maintain profitable book of business.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Commercial Property Underwriting",
+          "Risk Assessment",
+          "Financial Analysis",
+          "Relationship Management"
+        ],
+        "experience_years": 7
+      },
+      {
+        "title": "Director of Actuarial Services",
+        "department": "Actuarial",
+        "description": "Lead actuarial team in pricing, reserving, and risk modeling while developing strategic pricing initiatives.",
+        "location": "Hartford, Connecticut",
+        "salary_range": [
+          160000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Actuarial Science",
+          "Statistical Modeling",
+          "Team Leadership",
+          "Insurance Analytics"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Digital Innovation",
+        "department": "Technology",
+        "description": "Drive digital transformation initiatives and lead development of insurtech solutions across the organization.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          200000,
+          275000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Digital Strategy",
+          "InsurTech",
+          "Change Management",
+          "Technology Leadership"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "SolarFlow Solutions",
+    "about": "SolarFlow Solutions develops innovative solar energy storage and distribution systems using advanced flow battery technology. Our proprietary technology enables more efficient energy storage and grid integration for utility-scale solar installations.",
+    "industry": "Energy",
+    "company_stage": "Startup",
+    "size": "50-100 employees",
+    "location": "Austin, Texas",
+    "founded": "2021",
+    "roles": [
+      {
+        "title": "Battery Systems Engineer",
+        "department": "Engineering",
+        "description": "Design and optimize flow battery systems for large-scale energy storage applications. Work with cross-functional teams to develop and test new battery configurations.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Electrochemistry",
+          "Battery Systems",
+          "CAD",
+          "Python",
+          "Energy Storage Systems"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Lead operational strategy and execution for manufacturing and deployment of energy storage systems. Oversee supply chain, production, and installation teams.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Operations Management",
+          "Supply Chain",
+          "Team Leadership",
+          "Strategic Planning",
+          "Energy Industry Experience"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Junior Solar Technician",
+        "department": "Field Operations",
+        "description": "Assist in installation and maintenance of solar energy systems and flow battery installations. Support senior technicians in troubleshooting and repairs.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Solar PV Systems",
+          "Basic Electrical",
+          "Safety Protocols",
+          "Hand Tools"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Director of Business Development",
+        "department": "Sales",
+        "description": "Lead business development initiatives and strategic partnerships. Develop and execute sales strategies for utility-scale energy storage solutions.",
+        "location": "Houston, Texas",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Sales Strategy",
+          "Account Management",
+          "Energy Market Knowledge",
+          "Contract Negotiation"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Senior Project Manager",
+        "department": "Project Management",
+        "description": "Manage large-scale energy storage implementation projects from inception to completion. Coordinate with clients, contractors, and internal teams.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          110000,
+          150000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Project Management",
+          "Budget Management",
+          "Risk Assessment",
+          "Stakeholder Management",
+          "MS Project"
+        ],
+        "experience_years": 6
+      }
+    ]
+  },
+  {
+    "company_name": "Tribune Media Networks",
+    "about": "Tribune Media Networks is a leading multimedia company operating television stations, digital properties, and content production studios across the United States. With a rich history in journalism and entertainment, we deliver high-quality news, sports, and entertainment content across multiple platforms.",
+    "industry": "Media",
+    "company_stage": "Public",
+    "size": "15,000-20,000 employees",
+    "location": "Chicago, Illinois",
+    "founded": "1947",
+    "roles": [
+      {
+        "title": "Digital Content Producer",
+        "department": "Content Production",
+        "description": "Create and manage digital content across multiple platforms, including social media, web, and mobile applications. Collaborate with editorial teams to develop engaging multimedia content.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Content Creation",
+          "Social Media Management",
+          "Adobe Creative Suite",
+          "Basic Video Editing"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Broadcast Engineer",
+        "department": "Technical Operations",
+        "description": "Oversee broadcast equipment maintenance, implement new technologies, and ensure smooth transmission operations across our television stations.",
+        "location": "Los Angeles, California",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Broadcast Engineering",
+          "RF Systems",
+          "Technical Troubleshooting",
+          "FCC Regulations"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Director of Ad Sales",
+        "department": "Advertising",
+        "description": "Lead advertising sales strategies across digital and broadcast platforms, manage key client relationships, and develop new revenue opportunities.",
+        "location": "New York, New York",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Media Sales",
+          "Team Management",
+          "Strategic Planning",
+          "Client Relations"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Content Strategy",
+        "department": "Content",
+        "description": "Define and execute content strategy across all platforms, oversee content development teams, and drive audience growth initiatives.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          200000,
+          275000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Content Strategy",
+          "Executive Leadership",
+          "Business Development",
+          "Market Analysis"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Meridian Property Partners",
+    "about": "Meridian Property Partners is a vertically integrated real estate investment and management firm specializing in multifamily, commercial, and mixed-use properties across the Southeast United States. Backed by Thoma Bravo, we focus on value-add opportunities and property transformation.",
+    "industry": "Real Estate",
+    "company_stage": "Growth",
+    "size": "500-1000 employees",
+    "location": "Atlanta, Georgia",
+    "founded": "2008",
+    "roles": [
+      {
+        "title": "Acquisitions Analyst",
+        "department": "Investments",
+        "description": "Support the acquisitions team in financial modeling, due diligence, and market research for potential property investments",
+        "location": "Atlanta, GA",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Financial Modeling",
+          "Excel",
+          "Real Estate Analysis",
+          "Market Research"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Property Manager",
+        "department": "Operations",
+        "description": "Oversee daily operations of multiple residential properties, including tenant relations, maintenance coordination, and financial reporting",
+        "location": "Nashville, TN",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Property Management",
+          "Customer Service",
+          "Building Operations",
+          "Budget Management"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Development Manager",
+        "department": "Development",
+        "description": "Lead complex real estate development projects from conception through completion, including contractor coordination and budget oversight",
+        "location": "Charlotte, NC",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Project Management",
+          "Construction Management",
+          "Contract Negotiation",
+          "Development Planning"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Asset Management",
+        "department": "Asset Management",
+        "description": "Direct the asset management strategy for a portfolio of properties, optimize performance, and implement value-add initiatives",
+        "location": "Atlanta, GA",
+        "salary_range": [
+          150000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Asset Management",
+          "Portfolio Management",
+          "Financial Analysis",
+          "Strategic Planning"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Investments",
+        "department": "Investments",
+        "description": "Lead investment strategy, oversee deal sourcing, and manage relationships with capital partners and investors",
+        "location": "Atlanta, GA",
+        "salary_range": [
+          200000,
+          300000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Investment Strategy",
+          "Deal Structuring",
+          "Capital Markets",
+          "Relationship Management"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Meridian Capital Partners",
+    "about": "Meridian Capital Partners is a global investment management firm specializing in institutional asset management, private wealth management, and alternative investments. With over $150 billion in assets under management, we serve corporate pension funds, sovereign wealth funds, and high-net-worth individuals.",
+    "industry": "Finance",
+    "company_stage": "Mature",
+    "size": "1000-5000 employees",
+    "location": "Boston, Massachusetts",
+    "founded": "1992",
+    "roles": [
+      {
+        "title": "Investment Banking Analyst",
+        "department": "Investment Banking",
+        "description": "Support senior bankers in financial modeling, valuation analysis, and deal execution for M&A transactions and capital raising activities.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          85000,
+          110000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Financial Modeling",
+          "Excel",
+          "PowerPoint",
+          "Analytical Skills"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Portfolio Manager",
+        "department": "Asset Management",
+        "description": "Manage institutional fixed income portfolios and develop investment strategies aligned with client objectives.",
+        "location": "New York, New York",
+        "salary_range": [
+          150000,
+          250000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Portfolio Management",
+          "Fixed Income",
+          "Risk Management",
+          "Bloomberg Terminal"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Risk Management",
+        "department": "Risk",
+        "description": "Lead enterprise risk management initiatives and develop risk assessment frameworks across all investment strategies.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          200000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Risk Management",
+          "Basel III",
+          "Stress Testing",
+          "Regulatory Compliance"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Financial Operations Associate",
+        "department": "Operations",
+        "description": "Process trade settlements, reconciliations, and support daily operational activities for investment portfolios.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Trade Settlement",
+          "Fund Accounting",
+          "Excel",
+          "Internal Controls"
+        ],
+        "experience_years": 2
+      },
+      {
+        "title": "Director of Compliance",
+        "department": "Legal & Compliance",
+        "description": "Oversee regulatory compliance program and ensure adherence to SEC regulations and internal policies.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          180000,
+          275000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "SEC Regulations",
+          "Compliance Program Management",
+          "Risk Assessment",
+          "FINRA Rules"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "Client Relations Manager",
+        "department": "Client Services",
+        "description": "Manage relationships with institutional clients and coordinate investment reporting and client communications.",
+        "location": "San Francisco, California",
+        "salary_range": [
+          120000,
+          180000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Relationship Management",
+          "Client Service",
+          "Investment Knowledge",
+          "Communication"
+        ],
+        "experience_years": 6
+      }
+    ]
+  },
+  {
+    "company_name": "GreenField Agritech Solutions",
+    "about": "GreenField Agritech Solutions is a PE-backed agricultural technology company specializing in precision farming solutions, smart irrigation systems, and crop optimization software. The company partners with farmers across North America to improve yield efficiency and sustainable farming practices.",
+    "industry": "Agriculture",
+    "company_stage": "Growth",
+    "size": "250-500 employees",
+    "location": "Des Moines, Iowa",
+    "founded": "2015",
+    "roles": [
+      {
+        "title": "Field Operations Technician",
+        "department": "Operations",
+        "description": "Support installation and maintenance of precision farming equipment and sensors across client farms",
+        "location": "Des Moines, Iowa",
+        "salary_range": [
+          45000,
+          55000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Basic Electronics",
+          "Equipment Maintenance",
+          "Physical Stamina",
+          "Valid Driver's License"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Agricultural Data Analyst",
+        "department": "Analytics",
+        "description": "Analyze crop yield data and provide insights for optimization of farming operations",
+        "location": "Des Moines, Iowa",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Data Analysis",
+          "Python",
+          "Agricultural Science",
+          "Statistics"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Agronomist",
+        "department": "Research",
+        "description": "Lead research initiatives in crop science and provide technical consultation to key clients",
+        "location": "Sacramento, California",
+        "salary_range": [
+          95000,
+          120000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Agronomy",
+          "Research Methods",
+          "Crop Science",
+          "Project Management"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Product Development",
+        "department": "Product",
+        "description": "Lead the development and implementation of new agricultural technology solutions",
+        "location": "Des Moines, Iowa",
+        "salary_range": [
+          130000,
+          160000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Product Management",
+          "AgTech",
+          "Team Leadership",
+          "Strategic Planning"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Sales",
+        "department": "Sales",
+        "description": "Drive company revenue growth and manage relationships with major agricultural clients",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Sales Leadership",
+          "Agriculture Industry Knowledge",
+          "Strategic Planning",
+          "Business Development"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Callaway Communications",
+    "about": "Family-owned telecommunications company specializing in fiber optic networks, business phone systems, and managed IT services. Founded by James Callaway in 1987, the company has grown from a small local provider to serving businesses and residential customers across the Mid-Atlantic region while maintaining its commitment to personalized service.",
+    "industry": "Telecommunications",
+    "company_stage": "Mature",
+    "size": "100-250 employees",
+    "location": "Richmond, Virginia",
+    "founded": "1987",
+    "roles": [
+      {
+        "title": "Network Operations Center Technician",
+        "department": "Network Operations",
+        "description": "Monitor and maintain network infrastructure, respond to customer service issues, and perform basic troubleshooting of telecommunications systems.",
+        "location": "Richmond, Virginia",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Network Monitoring",
+          "Basic Networking",
+          "Customer Service",
+          "Troubleshooting"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Field Service Manager",
+        "department": "Technical Operations",
+        "description": "Oversee team of field technicians, coordinate installation and maintenance schedules, and ensure quality service delivery to customers.",
+        "location": "Richmond, Virginia",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Team Leadership",
+          "Telecommunications",
+          "Project Management",
+          "Customer Relations"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "VP of Network Infrastructure",
+        "department": "Technology",
+        "description": "Lead strategic planning and implementation of network infrastructure, oversee technology roadmap, and manage relationships with key vendors and partners.",
+        "location": "Richmond, Virginia",
+        "salary_range": [
+          160000,
+          200000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Strategic Planning",
+          "Network Architecture",
+          "Team Leadership",
+          "Vendor Management",
+          "Telecommunications Infrastructure"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "HomeStyles Direct",
+    "about": "HomeStyles Direct is a leading national home furnishings and decor retailer with over 500 stores across North America. Known for offering quality furniture, home accessories, and interior design services at competitive prices. The company has successfully integrated its brick-and-mortar presence with a robust e-commerce platform.",
+    "industry": "Retail",
+    "company_stage": "Public",
+    "size": "15,000-20,000 employees",
+    "location": "Atlanta, Georgia",
+    "founded": "1986",
+    "roles": [
+      {
+        "title": "Retail Sales Associate",
+        "department": "Store Operations",
+        "description": "Provide exceptional customer service, assist customers with product selection, process sales transactions, and maintain store appearance. Help customers navigate our furniture collections and home decor options.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          32000,
+          45000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Customer Service",
+          "Sales",
+          "POS Systems",
+          "Communication"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Visual Merchandising Manager",
+        "department": "Retail Operations",
+        "description": "Lead store visual merchandising strategies, create compelling displays, train staff on merchandising standards, and ensure brand consistency across assigned stores.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Visual Merchandising",
+          "Retail Design",
+          "Team Leadership",
+          "Space Planning"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Regional Operations Director",
+        "department": "Operations",
+        "description": "Oversee operations of 50+ stores in the Northeast region, drive sales performance, manage P&L, develop strategic growth plans, and ensure operational excellence.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "P&L Management",
+          "Retail Operations",
+          "Team Leadership",
+          "Strategic Planning"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of E-commerce",
+        "department": "Digital",
+        "description": "Lead the company's digital retail strategy, oversee online sales channels, manage the e-commerce platform, and drive digital transformation initiatives across the organization.",
+        "location": "Atlanta, Georgia",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "E-commerce",
+          "Digital Strategy",
+          "P&L Management",
+          "Executive Leadership"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "NeuroCrest Biologics",
+    "about": "NeuroCrest Biologics is a family-owned biotechnology company specializing in the development of novel therapeutics for neurological disorders. Founded by the Chen family, the company has maintained its commitment to innovative research while preserving its family-oriented culture.",
+    "industry": "Biotechnology",
+    "company_stage": "Growth",
+    "size": "150-200 employees",
+    "location": "Cambridge, Massachusetts",
+    "founded": "2008",
+    "roles": [
+      {
+        "title": "Research Associate I",
+        "department": "Research & Development",
+        "description": "Support laboratory research activities in neurodegenerative disease studies, including sample preparation and basic analytical techniques.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          55000,
+          70000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Cell Culture",
+          "PCR",
+          "Basic Lab Techniques",
+          "Data Documentation"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Process Development Engineer",
+        "department": "Manufacturing",
+        "description": "Lead process optimization initiatives for biological product manufacturing and scale-up operations.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Bioprocess Engineering",
+          "Six Sigma",
+          "Tech Transfer",
+          "GMP"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Director of Clinical Operations",
+        "department": "Clinical Development",
+        "description": "Oversee clinical trial planning, execution, and management for neurology pipeline products.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          160000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Clinical Trial Management",
+          "ICH-GCP",
+          "Project Management",
+          "Regulatory Compliance"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "Quality Control Analyst II",
+        "department": "Quality",
+        "description": "Perform analytical testing and documentation for raw materials, in-process samples, and finished products.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "HPLC",
+          "Method Validation",
+          "GMP",
+          "Laboratory Information Management Systems"
+        ],
+        "experience_years": 2
+      },
+      {
+        "title": "VP of Business Development",
+        "department": "Business Development",
+        "description": "Lead strategic partnerships, licensing negotiations, and commercial opportunities for the company's therapeutic pipeline.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          200000,
+          275000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Business Strategy",
+          "Licensing",
+          "Deal Structuring",
+          "Market Analysis"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Regulatory Affairs Specialist",
+        "department": "Regulatory Affairs",
+        "description": "Prepare and review regulatory submissions, maintain compliance documentation, and interact with regulatory agencies.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "FDA Regulations",
+          "IND/BLA Preparation",
+          "eCTD",
+          "Regulatory Strategy"
+        ],
+        "experience_years": 3
+      }
+    ]
+  },
+  {
+    "company_name": "GreenBuild Solutions",
+    "about": "GreenBuild Solutions is an innovative construction technology company specializing in sustainable building practices and smart construction management software. We help construction companies optimize their projects while minimizing environmental impact through our proprietary project management platform and green building consulting services.",
+    "industry": "Construction",
+    "company_stage": "Startup",
+    "size": "25-50 employees",
+    "location": "Austin, Texas",
+    "founded": "2021",
+    "roles": [
+      {
+        "title": "Junior Project Coordinator",
+        "department": "Operations",
+        "description": "Support project managers in day-to-day operations, maintain project documentation, and assist with scheduling and resource allocation.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          45000,
+          60000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Microsoft Office",
+          "Basic AutoCAD",
+          "Communication",
+          "Organization"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Construction Software Developer",
+        "department": "Technology",
+        "description": "Develop and maintain our construction management platform, implement new features, and ensure system reliability.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Python",
+          "JavaScript",
+          "React",
+          "SQL",
+          "API Development"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Sustainability Consultant",
+        "department": "Consulting",
+        "description": "Lead green building certification projects, provide sustainable construction advisory services, and develop environmental impact assessments.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          95000,
+          140000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "LEED Certification",
+          "Energy Modeling",
+          "Building Codes",
+          "Project Management"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Oversee all operational aspects of the company, develop strategic plans, and ensure efficient project delivery while maintaining quality standards.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          160000,
+          220000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Strategic Planning",
+          "Team Leadership",
+          "Construction Management",
+          "Business Development",
+          "P&L Management"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Nexus Therapeutics",
+    "about": "Nexus Therapeutics is a private equity-backed pharmaceutical company focused on developing innovative treatments for rare diseases and autoimmune disorders. The company specializes in small molecule drug development and has a robust pipeline of potential breakthrough therapies in Phase I and II clinical trials.",
+    "industry": "Pharmaceuticals",
+    "company_stage": "Growth",
+    "size": "250-500 employees",
+    "location": "Cambridge, Massachusetts",
+    "founded": "2015",
+    "roles": [
+      {
+        "title": "Research Associate",
+        "department": "Research & Development",
+        "description": "Support drug discovery efforts through conducting laboratory experiments, analyzing data, and maintaining detailed records of research findings.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Laboratory techniques",
+          "Data analysis",
+          "Documentation",
+          "Basic biochemistry"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Clinical Trial Manager",
+        "department": "Clinical Operations",
+        "description": "Oversee multiple Phase I-II clinical trials, coordinate with CROs, and ensure compliance with protocols and regulations.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Clinical trial management",
+          "GCP",
+          "Project management",
+          "Regulatory compliance"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Senior Regulatory Affairs Specialist",
+        "department": "Regulatory Affairs",
+        "description": "Lead regulatory strategy and submissions for drug candidates, interact with FDA and other regulatory bodies.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Regulatory strategy",
+          "FDA submissions",
+          "ICH guidelines",
+          "Technical writing"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Manufacturing",
+        "department": "Manufacturing",
+        "description": "Direct pharmaceutical manufacturing operations, ensure quality control, and optimize production processes.",
+        "location": "Waltham, Massachusetts",
+        "salary_range": [
+          160000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "GMP",
+          "Process optimization",
+          "Quality management",
+          "Team leadership"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Business Development",
+        "department": "Business Development",
+        "description": "Lead strategic partnerships, licensing deals, and M&A activities while developing long-term growth strategies.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          220000,
+          300000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Deal structuring",
+          "Negotiation",
+          "Strategic planning",
+          "Industry network"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "CivicTech Solutions Inc.",
+    "about": "CivicTech Solutions Inc. is a government technology contractor specializing in modernizing public sector IT infrastructure, digital services, and citizen engagement platforms. We partner with state and local governments to implement innovative digital solutions that improve public service delivery and operational efficiency.",
+    "industry": "Government",
+    "company_stage": "Mature",
+    "size": "500-1000 employees",
+    "location": "Richmond, Virginia",
+    "founded": "1998",
+    "roles": [
+      {
+        "title": "Junior Policy Analyst",
+        "department": "Policy & Research",
+        "description": "Support senior analysts in conducting research, analyzing public policy initiatives, and preparing reports for government stakeholders.",
+        "location": "Richmond, Virginia",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Research",
+          "Data Analysis",
+          "Report Writing",
+          "Government Relations"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Government Solutions Architect",
+        "department": "Technology",
+        "description": "Design and implement technical solutions for government clients, focusing on secure cloud infrastructure and digital service delivery platforms.",
+        "location": "Richmond, Virginia",
+        "salary_range": [
+          95000,
+          135000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Cloud Architecture",
+          "Security Compliance",
+          "System Design",
+          "Government IT"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Procurement Operations",
+        "department": "Operations",
+        "description": "Oversee government contract bidding processes, vendor relationships, and ensure compliance with federal and state procurement regulations.",
+        "location": "Richmond, Virginia",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Government Contracting",
+          "Procurement",
+          "Vendor Management",
+          "Regulatory Compliance"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "Public Sector Program Manager",
+        "department": "Project Management",
+        "description": "Manage large-scale government technology implementation projects and coordinate with multiple stakeholders to ensure successful delivery.",
+        "location": "Arlington, Virginia",
+        "salary_range": [
+          85000,
+          115000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Project Management",
+          "Stakeholder Management",
+          "Government Operations",
+          "Budget Planning"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "VP of Government Relations",
+        "department": "Executive",
+        "description": "Lead strategic relationships with government agencies, oversee public sector business development, and guide policy advocacy initiatives.",
+        "location": "Richmond, Virginia",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Government Affairs",
+          "Strategic Planning",
+          "Public Policy",
+          "Executive Leadership"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "GlobalConnect Networks",
+    "about": "GlobalConnect Networks is a leading telecommunications infrastructure provider specializing in fiber optic networks, 5G implementation, and enterprise communications solutions. The company operates one of the largest private fiber networks in North America and provides mission-critical connectivity services to businesses and telecommunications carriers.",
+    "industry": "Telecommunications",
+    "company_stage": "Public",
+    "size": "15,000-20,000 employees",
+    "location": "Denver, Colorado",
+    "founded": "1997",
+    "roles": [
+      {
+        "title": "Network Operations Technician",
+        "department": "Network Operations",
+        "description": "Monitor and maintain telecommunications network infrastructure, troubleshoot connectivity issues, and provide technical support for network systems.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Network Troubleshooting",
+          "CCNA",
+          "IP Networking",
+          "Linux"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Solutions Architect",
+        "department": "Engineering",
+        "description": "Design and implement telecommunications solutions for enterprise clients, focusing on network architecture and system integration.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          95000,
+          135000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Network Architecture",
+          "SD-WAN",
+          "Cloud Integration",
+          "Project Management"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Customer Experience",
+        "department": "Customer Operations",
+        "description": "Lead customer experience strategy and oversee support operations across multiple regions, ensuring high customer satisfaction and retention.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Customer Experience Management",
+          "Team Leadership",
+          "Strategic Planning",
+          "Operations Management"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Network Infrastructure",
+        "department": "Technology",
+        "description": "Direct the company's network infrastructure strategy, oversee network expansion projects, and lead technology innovation initiatives.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          220000,
+          300000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Executive Leadership",
+          "Telecommunications Infrastructure",
+          "Strategic Planning",
+          "P&L Management"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Quantum Dynamics Software",
+    "about": "Quantum Dynamics Software specializes in developing enterprise-level cloud security and data encryption solutions. Our flagship product helps organizations protect sensitive data through quantum-resistant encryption algorithms and advanced threat detection systems.",
+    "industry": "Technology",
+    "company_stage": "Growth",
+    "size": "250-500 employees",
+    "location": "Austin, Texas",
+    "founded": "2015",
+    "roles": [
+      {
+        "title": "Junior Software Developer",
+        "department": "Engineering",
+        "description": "Join our core development team to build and maintain cloud security applications. Focus on implementing encryption algorithms and contributing to our main product codebase.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Python",
+          "Java",
+          "REST APIs",
+          "Git",
+          "Basic Cryptography"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Security Architect",
+        "department": "Security",
+        "description": "Lead the design and implementation of security architecture for our enterprise solutions. Collaborate with development teams to ensure security best practices and compliance requirements are met.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          145000,
+          180000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Security Architecture",
+          "Cloud Security",
+          "Encryption",
+          "CISSP",
+          "Risk Assessment"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Product Management",
+        "department": "Product",
+        "description": "Drive product strategy and roadmap for our security solutions portfolio. Lead a team of product managers and work closely with engineering, sales, and marketing to ensure product success.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          220000,
+          280000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Product Strategy",
+          "Team Leadership",
+          "Enterprise Software",
+          "Security Domain Knowledge",
+          "Market Analysis"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Meridian Strategy Partners",
+    "about": "Meridian Strategy Partners is a global management consulting firm specializing in digital transformation, operational excellence, and strategic planning. We serve Fortune 500 companies across industries, helping them navigate complex business challenges and drive sustainable growth through data-driven insights and innovative solutions.",
+    "industry": "Consulting",
+    "company_stage": "Mature",
+    "size": "1000-5000 employees",
+    "location": "Chicago, IL",
+    "founded": "1997",
+    "roles": [
+      {
+        "title": "Business Analyst",
+        "department": "Client Services",
+        "description": "Support consulting teams in data analysis, market research, and client deliverable preparation. Work directly with senior consultants to develop strategic recommendations and implementation plans.",
+        "location": "Chicago, IL",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Excel",
+          "PowerPoint",
+          "Data Analysis",
+          "Research",
+          "Business Writing"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Management Consultant",
+        "department": "Strategy & Operations",
+        "description": "Lead client engagements, develop strategic frameworks, and manage project teams. Drive business transformation initiatives and provide expert counsel to C-level executives.",
+        "location": "New York, NY",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Project Management",
+          "Strategy Development",
+          "Team Leadership",
+          "Client Relations",
+          "Change Management"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Vice President of Digital Transformation",
+        "department": "Digital & Technology",
+        "description": "Lead the firm's digital transformation practice, oversee multiple client portfolios, and drive business development initiatives. Shape the firm's digital strategy offerings and mentor consulting teams.",
+        "location": "San Francisco, CA",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Digital Strategy",
+          "Enterprise Architecture",
+          "P&L Management",
+          "Executive Leadership",
+          "Business Development"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "GreenCrest Mining Solutions",
+    "about": "GreenCrest Mining Solutions is an innovative startup focusing on sustainable mining practices and advanced mineral extraction technologies. We combine traditional mining expertise with cutting-edge environmental protection methods to create more efficient and environmentally responsible mining operations.",
+    "industry": "Mining",
+    "company_stage": "Startup",
+    "size": "50-100 employees",
+    "location": "Denver, Colorado",
+    "founded": "2021",
+    "roles": [
+      {
+        "title": "Environmental Compliance Specialist",
+        "department": "Environmental Affairs",
+        "description": "Monitor and ensure compliance with environmental regulations while developing sustainable mining practices.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Environmental Regulations",
+          "Data Analysis",
+          "Report Writing",
+          "GIS Software"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Mining Operations Supervisor",
+        "department": "Operations",
+        "description": "Oversee daily mining operations and coordinate with field teams to ensure safe and efficient mineral extraction.",
+        "location": "Elko, Nevada",
+        "salary_range": [
+          85000,
+          110000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Mining Operations",
+          "Team Leadership",
+          "Safety Protocols",
+          "Equipment Management"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Senior Geological Engineer",
+        "department": "Engineering",
+        "description": "Lead geological surveys and mineral resource assessments while developing extraction strategies.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Geological Engineering",
+          "Resource Estimation",
+          "Mining Software",
+          "Project Management"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Sustainability",
+        "department": "Executive",
+        "description": "Develop and implement company-wide sustainability initiatives and environmental protection strategies.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          150000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Sustainability Planning",
+          "Environmental Management",
+          "Strategic Planning",
+          "Stakeholder Management"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Executive",
+        "description": "Lead overall mining operations, develop strategic plans, and ensure operational excellence across all sites.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          200000,
+          280000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Mining Operations",
+          "Strategic Leadership",
+          "Business Development",
+          "Risk Management"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "AutoVolt Dynamics",
+    "about": "AutoVolt Dynamics is pioneering the development of next-generation electric vehicle charging infrastructure and battery management systems. Our innovative technology enables faster charging times while extending battery life through advanced thermal management and predictive maintenance algorithms.",
+    "industry": "Automotive",
+    "company_stage": "Startup",
+    "size": "50-100 employees",
+    "location": "Austin, Texas",
+    "founded": "2021",
+    "roles": [
+      {
+        "title": "Battery Systems Engineer",
+        "department": "Engineering",
+        "description": "Design and develop advanced battery management systems for electric vehicles, focusing on thermal optimization and charging efficiency.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Battery Management Systems",
+          "Electrical Engineering",
+          "Python",
+          "CAD Software"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "VP of Product Development",
+        "department": "Product",
+        "description": "Lead product strategy and development of EV charging solutions, managing cross-functional teams and establishing product roadmap.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Product Management",
+          "EV Technology",
+          "Team Leadership",
+          "Strategic Planning"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Manufacturing Technician",
+        "department": "Operations",
+        "description": "Support the assembly and testing of charging system components and prototype builds.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Assembly",
+          "Quality Control",
+          "Technical Documentation",
+          "Hand Tools"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Director of Supply Chain",
+        "department": "Operations",
+        "description": "Oversee supply chain operations, vendor relationships, and logistics for component sourcing and distribution.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Supply Chain Management",
+          "Vendor Management",
+          "ERP Systems",
+          "Contract Negotiation"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Senior Software Developer",
+        "department": "Technology",
+        "description": "Develop and maintain software for charging station management and battery monitoring systems.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Java",
+          "Python",
+          "Cloud Services",
+          "IoT Platforms"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Marketing Coordinator",
+        "department": "Marketing",
+        "description": "Support marketing initiatives, manage social media presence, and coordinate trade show appearances.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          50000,
+          70000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Digital Marketing",
+          "Social Media Management",
+          "Event Planning",
+          "Content Creation"
+        ],
+        "experience_years": 1
+      }
+    ]
+  },
+  {
+    "company_name": "Neurogen Therapeutics",
+    "about": "Neurogen Therapeutics is a leading biotechnology company focused on developing innovative treatments for neurodegenerative diseases. Our flagship programs target Alzheimer's, Parkinson's, and rare neurological disorders using proprietary small molecule platforms and gene therapy approaches.",
+    "industry": "Biotechnology",
+    "company_stage": "Public",
+    "size": "1000-5000 employees",
+    "location": "Cambridge, Massachusetts",
+    "founded": "1998",
+    "roles": [
+      {
+        "title": "Research Associate I",
+        "department": "Research & Development",
+        "description": "Support preclinical research activities including cell culture, protein analysis, and molecular biology techniques for neurodegenerative disease programs.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Cell Culture",
+          "Western Blot",
+          "PCR",
+          "Aseptic Technique"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Process Development Scientist",
+        "department": "Manufacturing",
+        "description": "Lead process development initiatives for clinical-stage therapeutics, optimize manufacturing protocols, and ensure compliance with GMP standards.",
+        "location": "Waltham, Massachusetts",
+        "salary_range": [
+          110000,
+          150000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Process Development",
+          "GMP",
+          "Tech Transfer",
+          "DOE",
+          "Upstream Processing"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Vice President of Clinical Operations",
+        "department": "Clinical Development",
+        "description": "Oversee all clinical trial operations, manage CRO relationships, and drive strategic planning for late-stage clinical programs across the neurology portfolio.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Clinical Operations",
+          "Project Management",
+          "Regulatory Compliance",
+          "Strategic Planning",
+          "Team Leadership"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Catalyst Strategy Partners",
+    "about": "Catalyst Strategy Partners is a boutique management consulting firm specializing in digital transformation, operational excellence, and strategic growth initiatives. Backed by Thoma Bravo, we serve Fortune 500 clients across industries with data-driven solutions and innovative approaches to complex business challenges.",
+    "industry": "Consulting",
+    "company_stage": "Growth",
+    "size": "250-500 employees",
+    "location": "Boston, Massachusetts",
+    "founded": "2015",
+    "roles": [
+      {
+        "title": "Associate Consultant",
+        "department": "Consulting",
+        "description": "Support client engagement teams in research, analysis, and deliverable creation for strategic consulting projects.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Excel",
+          "PowerPoint",
+          "Data Analysis",
+          "Research"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Technology Consultant",
+        "department": "Digital Transformation",
+        "description": "Lead technical workstreams for digital transformation projects and provide expertise in technology strategy and implementation.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Project Management",
+          "Digital Strategy",
+          "Enterprise Architecture",
+          "Change Management"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Director of Operations Excellence",
+        "department": "Operations",
+        "description": "Lead operational improvement initiatives and develop methodologies for process optimization across client engagements.",
+        "location": "New York, New York",
+        "salary_range": [
+          180000,
+          220000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Lean Six Sigma",
+          "Process Improvement",
+          "Team Leadership",
+          "Client Management"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Client Services",
+        "department": "Client Services",
+        "description": "Drive client relationship strategy, oversee multiple engagement teams, and contribute to firm's growth and business development.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Business Development",
+          "Executive Leadership",
+          "Strategy Development",
+          "P&L Management"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Kirkland & Ellis LLP",
+    "about": "Kirkland & Ellis is one of the world's leading law firms, with over 3,000 attorneys representing global clients in complex litigation, corporate, intellectual property, restructuring, and tax matters.",
+    "industry": "Legal",
+    "company_stage": "Public",
+    "size": "5,000-10,000 employees",
+    "location": "Chicago, Illinois",
+    "founded": "1909",
+    "roles": [
+      {
+        "title": "Legal Assistant",
+        "department": "Litigation Support",
+        "description": "Support attorneys by preparing legal documents, maintaining files, and coordinating with clients and court officials.",
+        "location": "New York, NY",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Legal Documentation",
+          "MS Office",
+          "Organization",
+          "Communication"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Associate Attorney",
+        "department": "Corporate Law",
+        "description": "Handle corporate transactions, mergers and acquisitions, and provide legal counsel to business clients.",
+        "location": "Chicago, IL",
+        "salary_range": [
+          190000,
+          250000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Corporate Law",
+          "Contract Negotiation",
+          "Due Diligence",
+          "Business Acumen"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Litigation Attorney",
+        "department": "Litigation",
+        "description": "Lead complex litigation cases, develop case strategy, and manage client relationships.",
+        "location": "Los Angeles, CA",
+        "salary_range": [
+          280000,
+          400000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Trial Experience",
+          "Litigation Strategy",
+          "Case Management",
+          "Legal Research"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Practice Group Director",
+        "department": "Intellectual Property",
+        "description": "Oversee IP practice group operations, develop business strategies, and manage team of attorneys.",
+        "location": "Washington, DC",
+        "salary_range": [
+          450000,
+          600000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "IP Law",
+          "Team Leadership",
+          "Business Development",
+          "Strategic Planning"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Vice President of Legal Operations",
+        "department": "Executive",
+        "description": "Direct firm-wide legal operations, develop strategic initiatives, and ensure operational excellence across practice groups.",
+        "location": "Chicago, IL",
+        "salary_range": [
+          750000,
+          1000000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Legal Operations",
+          "Executive Leadership",
+          "Strategic Planning",
+          "Change Management"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Rosewood Inn & Suites",
+    "about": "Founded by the Rosewood family in 1978, this boutique hotel chain operates charming properties across the Midwest. Known for personalized service and elegant accommodations, each location maintains the warm, family-oriented atmosphere that has been their hallmark for over 40 years.",
+    "industry": "Hospitality",
+    "company_stage": "Mature",
+    "size": "250-500 employees",
+    "location": "Madison, Wisconsin",
+    "founded": "1978",
+    "roles": [
+      {
+        "title": "Front Desk Associate",
+        "department": "Guest Services",
+        "description": "Provide exceptional guest service, handle check-ins/check-outs, and manage reservations while maintaining high standards of customer care",
+        "location": "Madison, Wisconsin",
+        "salary_range": [
+          32000,
+          42000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Customer Service",
+          "Communication",
+          "Basic Computer Skills"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Executive Chef",
+        "department": "Food & Beverage",
+        "description": "Lead kitchen operations, develop menus, manage food costs, and maintain quality standards across all dining venues",
+        "location": "Milwaukee, Wisconsin",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Culinary Management",
+          "Menu Planning",
+          "Team Leadership",
+          "Food Safety"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Sales",
+        "department": "Sales",
+        "description": "Develop and implement sales strategies, manage corporate accounts, and drive revenue growth across properties",
+        "location": "Madison, Wisconsin",
+        "salary_range": [
+          85000,
+          110000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Sales Strategy",
+          "Account Management",
+          "Revenue Management",
+          "Leadership"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "Housekeeping Supervisor",
+        "department": "Housekeeping",
+        "description": "Oversee daily housekeeping operations, maintain cleanliness standards, and manage housekeeping staff",
+        "location": "Minneapolis, Minnesota",
+        "salary_range": [
+          38000,
+          48000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Staff Management",
+          "Cleaning Standards",
+          "Inventory Management"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Direct overall hotel operations, ensure service excellence, and drive business performance across all properties",
+        "location": "Madison, Wisconsin",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Hotel Management",
+          "Strategic Planning",
+          "P&L Management",
+          "Leadership"
+        ],
+        "experience_years": 15
+      },
+      {
+        "title": "Events Coordinator",
+        "department": "Events",
+        "description": "Plan and execute corporate events, weddings, and special occasions while ensuring client satisfaction",
+        "location": "Milwaukee, Wisconsin",
+        "salary_range": [
+          45000,
+          55000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Event Planning",
+          "Customer Service",
+          "Organization",
+          "Budget Management"
+        ],
+        "experience_years": 2
+      }
+    ]
+  },
+  {
+    "company_name": "Pioneer Precision Manufacturing",
+    "about": "Pioneer Precision Manufacturing is a leading manufacturer of advanced industrial machinery and automated manufacturing equipment. With state-of-the-art facilities and a focus on innovation, we serve diverse industries including automotive, aerospace, and consumer goods manufacturing. Our commitment to quality and precision has made us a trusted partner for Fortune 500 companies worldwide.",
+    "industry": "Manufacturing",
+    "company_stage": "Public",
+    "size": "5,000-10,000 employees",
+    "location": "Cleveland, Ohio",
+    "founded": "1978",
+    "roles": [
+      {
+        "title": "Production Line Worker",
+        "department": "Operations",
+        "description": "Operate manufacturing equipment and perform assembly tasks following standard operating procedures while maintaining quality standards.",
+        "location": "Cleveland, Ohio",
+        "salary_range": [
+          35000,
+          45000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Assembly",
+          "Safety Protocols",
+          "Basic Math",
+          "Physical Stamina"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Quality Control Specialist",
+        "department": "Quality Assurance",
+        "description": "Inspect products and materials for defects, maintain quality documentation, and ensure compliance with industry standards.",
+        "location": "Detroit, Michigan",
+        "salary_range": [
+          52000,
+          68000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Quality Control Systems",
+          "Statistical Analysis",
+          "ISO Standards",
+          "Documentation"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Manufacturing Engineer",
+        "department": "Engineering",
+        "description": "Design and optimize manufacturing processes, implement automation solutions, and lead continuous improvement initiatives.",
+        "location": "Cleveland, Ohio",
+        "salary_range": [
+          85000,
+          115000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Process Engineering",
+          "AutoCAD",
+          "Lean Manufacturing",
+          "Six Sigma"
+        ],
+        "experience_years": 7
+      },
+      {
+        "title": "Supply Chain Director",
+        "department": "Supply Chain",
+        "description": "Oversee global supply chain operations, develop strategic partnerships, and optimize inventory management systems.",
+        "location": "Cleveland, Ohio",
+        "salary_range": [
+          130000,
+          160000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Supply Chain Management",
+          "ERP Systems",
+          "Vendor Management",
+          "Strategic Planning"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Lead manufacturing operations across multiple facilities, develop operational strategies, and drive business growth.",
+        "location": "Cleveland, Ohio",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Operations Management",
+          "P&L Management",
+          "Strategic Leadership",
+          "Change Management"
+        ],
+        "experience_years": 15
+      },
+      {
+        "title": "Maintenance Technician",
+        "department": "Maintenance",
+        "description": "Perform preventive maintenance on manufacturing equipment, troubleshoot mechanical issues, and conduct repairs.",
+        "location": "Detroit, Michigan",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Mechanical Repair",
+          "Electrical Systems",
+          "Preventive Maintenance",
+          "Equipment Diagnostics"
+        ],
+        "experience_years": 2
+      }
+    ]
+  },
+  {
+    "company_name": "FlexRoute Logistics",
+    "about": "FlexRoute Logistics is revolutionizing last-mile delivery through an AI-powered dynamic routing platform that optimizes delivery routes in real-time while reducing carbon emissions. Our technology helps courier companies and retailers improve delivery efficiency by up to 30% while providing better customer experience.",
+    "industry": "Transportation",
+    "company_stage": "Startup",
+    "size": "50-100 employees",
+    "location": "Austin, Texas",
+    "founded": "2021",
+    "roles": [
+      {
+        "title": "Route Optimization Engineer",
+        "department": "Engineering",
+        "description": "Design and implement algorithms for real-time route optimization and fleet management. Work with machine learning models to improve delivery predictions and efficiency.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          85000,
+          130000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Python",
+          "Algorithm Design",
+          "Machine Learning",
+          "Operations Research"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Junior Operations Coordinator",
+        "department": "Operations",
+        "description": "Support daily logistics operations, coordinate with delivery partners, and assist in monitoring delivery performance metrics.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          45000,
+          60000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Microsoft Office",
+          "Communication",
+          "Problem Solving",
+          "Data Entry"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "VP of Product",
+        "department": "Product",
+        "description": "Lead product strategy and development, oversee product roadmap, and work closely with engineering and customer success teams to deliver innovative solutions.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Product Management",
+          "Strategy",
+          "Leadership",
+          "Transportation Technology"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Senior Account Executive",
+        "department": "Sales",
+        "description": "Drive new business development, manage enterprise client relationships, and achieve revenue targets through solution selling to logistics companies.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          110000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Enterprise Sales",
+          "Solution Selling",
+          "CRM",
+          "Negotiation"
+        ],
+        "experience_years": 7
+      },
+      {
+        "title": "Director of Customer Success",
+        "department": "Customer Success",
+        "description": "Build and lead the customer success team, develop customer engagement strategies, and ensure high customer satisfaction and retention.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          130000,
+          180000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Team Management",
+          "Customer Success",
+          "Strategic Planning",
+          "Analytics"
+        ],
+        "experience_years": 8
+      }
+    ]
+  },
+  {
+    "company_name": "PrimeRoute Logistics",
+    "about": "PrimeRoute Logistics is a growing mid-size logistics company specializing in regional freight transportation, warehousing, and supply chain optimization solutions. With a modern fleet and technology-driven operations, we serve clients across the manufacturing, retail, and e-commerce sectors.",
+    "industry": "Logistics",
+    "company_stage": "Growth",
+    "size": "500-1000 employees",
+    "location": "Indianapolis, Indiana",
+    "founded": "2008",
+    "roles": [
+      {
+        "title": "Warehouse Operations Associate",
+        "department": "Operations",
+        "description": "Handle daily warehouse operations including receiving, picking, packing, and shipping of customer orders while maintaining inventory accuracy and safety standards.",
+        "location": "Indianapolis, Indiana",
+        "salary_range": [
+          35000,
+          45000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Inventory Management",
+          "Forklift Operation",
+          "Physical Stamina",
+          "Basic Computer Skills"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Route Optimization Specialist",
+        "department": "Operations Planning",
+        "description": "Develop and maintain efficient delivery routes using advanced routing software while coordinating with drivers and dispatch team to ensure timely deliveries.",
+        "location": "Indianapolis, Indiana",
+        "salary_range": [
+          55000,
+          70000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Route Planning Software",
+          "Data Analysis",
+          "Problem Solving",
+          "Communication"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Regional Fleet Manager",
+        "department": "Transportation",
+        "description": "Oversee fleet operations, maintenance schedules, and driver management for the Midwest region while ensuring compliance with DOT regulations.",
+        "location": "Indianapolis, Indiana",
+        "salary_range": [
+          85000,
+          110000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Fleet Management",
+          "DOT Regulations",
+          "Team Leadership",
+          "Budget Management"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Supply Chain Solutions",
+        "department": "Executive",
+        "description": "Lead strategic planning and execution of supply chain initiatives, oversee multiple departments, and drive continuous improvement in operations efficiency.",
+        "location": "Indianapolis, Indiana",
+        "salary_range": [
+          160000,
+          220000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Strategic Planning",
+          "Supply Chain Management",
+          "Executive Leadership",
+          "P&L Management"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Freeport-McMoRan",
+    "about": "Freeport-McMoRan is one of the world's largest publicly traded copper producers, operating large, long-lived, geographically diverse assets with significant proven and probable reserves of copper, gold, and molybdenum. The company has mining operations in North America, South America, and Indonesia.",
+    "industry": "Mining",
+    "company_stage": "Public",
+    "size": "24,000-28,000 employees",
+    "location": "Phoenix, Arizona, USA",
+    "founded": "1912",
+    "roles": [
+      {
+        "title": "Mining Engineer I",
+        "department": "Operations",
+        "description": "Support daily mining operations through planning, design, and optimization of mining processes. Assist in maintaining safety standards and ensuring efficient extraction methods.",
+        "location": "Morenci, Arizona",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "AutoCAD",
+          "Mining Software",
+          "Safety Protocols",
+          "Basic Engineering Principles"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Environmental Compliance Specialist",
+        "department": "Environmental Affairs",
+        "description": "Ensure compliance with environmental regulations, manage permits, and coordinate environmental monitoring programs across mining operations.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Environmental Regulations",
+          "Permit Management",
+          "Data Analysis",
+          "Report Writing"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Metallurgist",
+        "department": "Processing",
+        "description": "Lead metallurgical processes and improvements in mineral processing operations. Optimize recovery rates and manage quality control programs.",
+        "location": "Safford, Arizona",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Metallurgy",
+          "Process Optimization",
+          "Laboratory Analysis",
+          "Project Management"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Mine Operations",
+        "department": "Operations",
+        "description": "Direct and oversee all aspects of mine operations including production, safety, maintenance, and personnel management for multiple mine sites.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          150000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Operations Management",
+          "Strategic Planning",
+          "Team Leadership",
+          "Budget Management"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Sustainability",
+        "department": "Executive",
+        "description": "Lead corporate sustainability initiatives, develop environmental strategies, and ensure responsible mining practices across all operations globally.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Corporate Sustainability",
+          "Stakeholder Management",
+          "Strategic Leadership",
+          "Industry Relations"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Merck & Co.",
+    "about": "Merck & Co. is a global pharmaceutical company that develops and produces medicines, vaccines, and animal health products. Known for breakthrough treatments in oncology, diabetes, and infectious diseases, Merck continues to lead innovation in healthcare through extensive R&D investments.",
+    "industry": "Pharmaceuticals",
+    "company_stage": "Public",
+    "size": "75,000-80,000 employees",
+    "location": "Kenilworth, New Jersey, USA",
+    "founded": "1891",
+    "roles": [
+      {
+        "title": "Research Associate I",
+        "department": "Research & Development",
+        "description": "Support drug discovery projects through laboratory research, data collection, and analysis of experimental results.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Laboratory techniques",
+          "Data analysis",
+          "Documentation",
+          "Basic molecular biology"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Clinical Trial Manager",
+        "department": "Clinical Operations",
+        "description": "Oversee multiple phase II-III clinical trials, coordinate with CROs, and ensure compliance with protocols and regulations.",
+        "location": "Rahway, New Jersey",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Clinical trial management",
+          "GCP",
+          "Project management",
+          "Regulatory compliance"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Senior Regulatory Affairs Specialist",
+        "department": "Regulatory Affairs",
+        "description": "Lead regulatory strategy for drug applications and maintain compliance with FDA and international regulations.",
+        "location": "Washington, DC",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Regulatory strategy",
+          "FDA regulations",
+          "Technical writing",
+          "Drug development process"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Manufacturing Operations",
+        "department": "Manufacturing",
+        "description": "Direct pharmaceutical manufacturing operations, ensure quality standards, and optimize production efficiency.",
+        "location": "Durham, North Carolina",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "GMP",
+          "Operations management",
+          "Quality systems",
+          "Leadership"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Vice President of Global Marketing",
+        "department": "Marketing",
+        "description": "Lead global marketing strategy for pharmaceutical products portfolio and oversee market research and brand development.",
+        "location": "Kenilworth, New Jersey",
+        "salary_range": [
+          300000,
+          450000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Strategic planning",
+          "Portfolio management",
+          "Market analysis",
+          "Executive leadership"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "StayWell Suites",
+    "about": "StayWell Suites is a tech-forward boutique hotel chain revolutionizing the extended stay experience through smart room automation, personalized guest services, and sustainable practices. Our properties combine the comfort of home with modern amenities for business and leisure travelers.",
+    "industry": "Hospitality",
+    "company_stage": "Startup",
+    "size": "50-100 employees",
+    "location": "Austin, Texas",
+    "founded": 2022,
+    "roles": [
+      {
+        "title": "Guest Services Associate",
+        "department": "Operations",
+        "description": "Front-line position handling check-ins/check-outs, guest requests, and ensuring excellent customer service standards",
+        "location": "Austin, Texas",
+        "salary_range": [
+          35000,
+          45000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Customer Service",
+          "Communication",
+          "Basic Computer Skills"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Revenue Management Specialist",
+        "department": "Finance",
+        "description": "Optimize room pricing and inventory management to maximize revenue across properties",
+        "location": "Austin, Texas",
+        "salary_range": [
+          55000,
+          70000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Revenue Management",
+          "Data Analysis",
+          "Hotel PMS Systems"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Operations Manager",
+        "department": "Operations",
+        "description": "Oversee daily hotel operations, staff management, and ensure service quality standards",
+        "location": "Austin, Texas",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Hotel Management",
+          "Team Leadership",
+          "Budget Management"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Director of Guest Experience",
+        "department": "Customer Experience",
+        "description": "Lead guest experience strategy, implement service innovations, and manage customer feedback programs",
+        "location": "Austin, Texas",
+        "salary_range": [
+          95000,
+          120000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Hospitality Management",
+          "Customer Experience",
+          "Strategic Planning"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Property Development",
+        "department": "Development",
+        "description": "Lead new property acquisitions, renovations, and expansion strategies across multiple markets",
+        "location": "Austin, Texas",
+        "salary_range": [
+          150000,
+          200000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Real Estate Development",
+          "Project Management",
+          "Strategic Planning"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Northstar Minerals Ltd.",
+    "about": "Northstar Minerals is a mid-size mining company specializing in copper and gold extraction, utilizing advanced geological exploration techniques and sustainable mining practices. The company operates two active mines in Nevada and maintains exploration projects across the western United States.",
+    "industry": "Mining",
+    "company_stage": "Mature",
+    "size": "500-1000 employees",
+    "location": "Reno, Nevada, USA",
+    "founded": "1987",
+    "roles": [
+      {
+        "title": "Mine Operations Engineer",
+        "department": "Operations",
+        "description": "Oversee daily mining operations, optimize extraction processes, and ensure safety compliance at our primary copper mine site.",
+        "location": "Elko, Nevada",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Mining Engineering",
+          "AutoCAD",
+          "Safety Management",
+          "Process Optimization"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Geologist",
+        "department": "Exploration",
+        "description": "Lead geological surveys, analyze mineral deposits, and develop exploration strategies for new mining sites.",
+        "location": "Reno, Nevada",
+        "salary_range": [
+          110000,
+          140000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Geological Mapping",
+          "Resource Estimation",
+          "GIS Software",
+          "Mineral Analysis"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Environmental Compliance Director",
+        "department": "Environmental Affairs",
+        "description": "Manage environmental impact assessments, ensure regulatory compliance, and develop sustainable mining practices.",
+        "location": "Reno, Nevada",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Environmental Regulations",
+          "Risk Assessment",
+          "Project Management",
+          "Stakeholder Management"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Mine Maintenance Technician",
+        "department": "Maintenance",
+        "description": "Perform preventive maintenance and repairs on mining equipment and machinery.",
+        "location": "Elko, Nevada",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Mechanical Repair",
+          "Equipment Maintenance",
+          "Troubleshooting",
+          "Safety Protocols"
+        ],
+        "experience_years": 1
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Oversee all mining operations, develop strategic plans, and optimize production efficiency across multiple sites.",
+        "location": "Reno, Nevada",
+        "salary_range": [
+          220000,
+          280000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Mining Operations",
+          "Strategic Planning",
+          "Team Leadership",
+          "Business Development"
+        ],
+        "experience_years": 15
+      },
+      {
+        "title": "Senior Process Engineer",
+        "department": "Processing",
+        "description": "Lead mineral processing operations, optimize recovery methods, and implement new processing technologies.",
+        "location": "Elko, Nevada",
+        "salary_range": [
+          95000,
+          125000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Mineral Processing",
+          "Metallurgy",
+          "Process Control",
+          "Six Sigma"
+        ],
+        "experience_years": 7
+      }
+    ]
+  },
+  {
+    "company_name": "Riverside Orchards & Cider",
+    "about": "Family-owned apple orchard and craft cidery established in 1978, specializing in premium hard ciders, fresh apple products, and artisanal fruit-based beverages. Known for sustainable farming practices and innovative flavor combinations.",
+    "industry": "Food & Beverage",
+    "company_stage": "Mature",
+    "size": "50-100 employees",
+    "location": "Hudson Valley, NY",
+    "founded": "1978",
+    "roles": [
+      {
+        "title": "Production Line Worker",
+        "department": "Manufacturing",
+        "description": "Operate cider pressing and bottling equipment, maintain quality control standards, and assist in general production operations.",
+        "location": "Hudson, NY",
+        "salary_range": [
+          35000,
+          45000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Food Safety",
+          "Equipment Operation",
+          "Physical Stamina"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Quality Assurance Specialist",
+        "department": "Quality Control",
+        "description": "Monitor product quality, conduct taste tests, ensure compliance with food safety regulations, and maintain documentation.",
+        "location": "Hudson, NY",
+        "salary_range": [
+          52000,
+          65000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "HACCP",
+          "Quality Control",
+          "Laboratory Testing",
+          "Food Science"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Cider Maker",
+        "department": "Production",
+        "description": "Lead cider production processes, develop new recipes, oversee fermentation, and manage production scheduling.",
+        "location": "Hudson, NY",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Fermentation Science",
+          "Recipe Development",
+          "Production Management",
+          "Sensory Analysis"
+        ],
+        "experience_years": 7
+      },
+      {
+        "title": "Orchard Operations Director",
+        "department": "Agriculture",
+        "description": "Manage orchard operations, develop cultivation strategies, oversee harvest planning, and maintain sustainable farming practices.",
+        "location": "Hudson, NY",
+        "salary_range": [
+          95000,
+          120000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Orchard Management",
+          "Agricultural Planning",
+          "Team Leadership",
+          "Sustainability Practices"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Sales and Distribution",
+        "department": "Sales",
+        "description": "Lead sales strategy, manage distributor relationships, develop new market opportunities, and oversee revenue growth.",
+        "location": "Hudson, NY",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Sales Strategy",
+          "Distribution Management",
+          "Market Development",
+          "Business Development"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Global Transit Solutions",
+    "about": "Global Transit Solutions is a leading international logistics and supply chain management company specializing in multimodal transportation, warehousing, and end-to-end logistics solutions. With a robust network spanning 45 countries, we leverage advanced technology and sustainable practices to optimize supply chains for Fortune 500 companies.",
+    "industry": "Logistics",
+    "company_stage": "Public",
+    "size": "15,000-20,000 employees",
+    "location": "Atlanta, Georgia",
+    "founded": "1987",
+    "roles": [
+      {
+        "title": "Warehouse Operations Coordinator",
+        "department": "Operations",
+        "description": "Coordinate daily warehouse activities, manage inventory tracking systems, and ensure efficient order fulfillment processes while maintaining safety standards.",
+        "location": "Memphis, Tennessee",
+        "salary_range": [
+          42000,
+          55000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Inventory Management",
+          "MS Office",
+          "OSHA Safety Standards",
+          "Basic Mathematics"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Regional Fleet Manager",
+        "department": "Transportation",
+        "description": "Oversee fleet operations for the Southeast region, manage driver schedules, maintain compliance with DOT regulations, and optimize route efficiency.",
+        "location": "Atlanta, Georgia",
+        "salary_range": [
+          85000,
+          110000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Fleet Management",
+          "DOT Regulations",
+          "Route Optimization",
+          "Team Leadership",
+          "Budget Management"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Global Supply Chain",
+        "department": "Supply Chain",
+        "description": "Lead strategic development and execution of global supply chain initiatives, oversee international logistics operations, and drive continuous improvement across the organization.",
+        "location": "Atlanta, Georgia",
+        "salary_range": [
+          220000,
+          280000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Supply Chain Management",
+          "Strategic Planning",
+          "International Logistics",
+          "P&L Management",
+          "Executive Leadership"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Lockheed Martin",
+    "about": "Lockheed Martin is a global security and aerospace company that employs approximately 114,000 people worldwide. The company is principally engaged in the research, design, development, manufacture, integration and sustainment of advanced technology systems, products and services.",
+    "industry": "Government",
+    "company_stage": "Public",
+    "size": "100,000-150,000 employees",
+    "location": "Bethesda, Maryland",
+    "founded": "1995",
+    "roles": [
+      {
+        "title": "Government Relations Specialist",
+        "department": "Government Affairs",
+        "description": "Coordinate with government agencies and maintain relationships with key stakeholders to advance company initiatives and ensure compliance with federal regulations.",
+        "location": "Washington, DC",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Policy Analysis",
+          "Communication",
+          "Government Relations"
+        ],
+        "experience_years": 1
+      },
+      {
+        "title": "Defense Systems Engineer",
+        "department": "Engineering",
+        "description": "Design and develop advanced defense systems and technologies for government contracts.",
+        "location": "Fort Worth, Texas",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Systems Engineering",
+          "Defense Technologies",
+          "Project Management"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Senior Contract Manager",
+        "department": "Contracts",
+        "description": "Oversee government contract negotiations and ensure compliance with federal acquisition regulations.",
+        "location": "Bethesda, Maryland",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Contract Management",
+          "FAR Knowledge",
+          "Negotiation"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Cybersecurity",
+        "department": "Information Technology",
+        "description": "Lead cybersecurity initiatives and protect sensitive government data across company operations.",
+        "location": "Orlando, Florida",
+        "salary_range": [
+          160000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Cybersecurity",
+          "Risk Management",
+          "Leadership"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Government Programs",
+        "department": "Executive",
+        "description": "Develop and execute strategy for government program portfolio and maintain relationships with senior government officials.",
+        "location": "Arlington, Virginia",
+        "salary_range": [
+          220000,
+          300000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Executive Leadership",
+          "Government Relations",
+          "Strategic Planning"
+        ],
+        "experience_years": 15
+      },
+      {
+        "title": "Aerospace Systems Analyst",
+        "department": "Operations",
+        "description": "Analyze aerospace systems performance and provide technical support for government projects.",
+        "location": "Palmdale, California",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Data Analysis",
+          "Aerospace Systems",
+          "Technical Writing"
+        ],
+        "experience_years": 3
+      }
+    ]
+  },
+  {
+    "company_name": "Horizon Renewables Solutions",
+    "about": "Horizon Renewables Solutions is a private equity-backed renewable energy developer and operator specializing in utility-scale solar and wind projects across North America. The company manages over 2.5GW of clean energy assets and is rapidly expanding its portfolio through strategic acquisitions and greenfield development.",
+    "industry": "Energy",
+    "company_stage": "Growth",
+    "size": "500-1000 employees",
+    "location": "Denver, Colorado",
+    "founded": "2015",
+    "roles": [
+      {
+        "title": "Solar Project Engineer",
+        "department": "Engineering",
+        "description": "Design and implement utility-scale solar installations, perform technical analysis, and coordinate with construction teams on project execution.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "AutoCAD",
+          "PVsyst",
+          "Electrical Engineering",
+          "Project Management"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Wind Asset Manager",
+        "department": "Operations",
+        "description": "Oversee performance optimization and maintenance of wind farm assets, manage vendor relationships, and ensure operational excellence.",
+        "location": "Houston, Texas",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Wind Turbine Technology",
+          "Asset Management",
+          "Performance Analysis",
+          "SCADA Systems"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Director of Project Finance",
+        "department": "Finance",
+        "description": "Lead financial structuring of renewable energy projects, manage relationships with investors, and oversee project financial analysis team.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          160000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Project Finance",
+          "Financial Modeling",
+          "Risk Management",
+          "Renewable Energy Markets"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Business Development",
+        "department": "Business Development",
+        "description": "Drive company growth through new project acquisitions, strategic partnerships, and market expansion initiatives.",
+        "location": "San Francisco, California",
+        "salary_range": [
+          200000,
+          275000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Deal Structuring",
+          "Negotiation",
+          "Market Analysis",
+          "Renewable Energy Development"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "FleetFlow Technologies",
+    "about": "FleetFlow Technologies is revolutionizing last-mile delivery logistics through AI-powered route optimization and autonomous vehicle integration. Our platform helps delivery companies reduce fuel consumption, optimize driver schedules, and improve delivery efficiency by up to 40%.",
+    "industry": "Transportation",
+    "company_stage": "Startup",
+    "size": "50-100 employees",
+    "location": "Austin, Texas",
+    "founded": "2021",
+    "roles": [
+      {
+        "title": "Junior Software Developer",
+        "department": "Engineering",
+        "description": "Develop and maintain core features of our route optimization platform, working with modern tech stack including Python, React, and AWS.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Python",
+          "JavaScript",
+          "REST APIs",
+          "Git"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Fleet Operations Manager",
+        "department": "Operations",
+        "description": "Oversee daily fleet operations, coordinate with clients, and ensure efficient delivery scheduling and resource allocation.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Fleet Management",
+          "Logistics",
+          "Team Leadership",
+          "MS Office"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Data Scientist",
+        "department": "Analytics",
+        "description": "Lead the development of predictive models for route optimization and demand forecasting using machine learning algorithms.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Python",
+          "Machine Learning",
+          "SQL",
+          "Data Visualization",
+          "Statistics"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "VP of Business Development",
+        "department": "Sales",
+        "description": "Drive company growth through strategic partnerships, lead sales team, and develop market expansion strategies.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Sales Leadership",
+          "Strategic Planning",
+          "Partnership Development",
+          "Transportation Industry Experience"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Nexus Dynamics Systems",
+    "about": "Nexus Dynamics Systems is a leading provider of enterprise cloud infrastructure and security solutions. The company specializes in developing advanced cloud management platforms, helping organizations optimize their digital transformation journey through innovative automation and security technologies.",
+    "industry": "Technology",
+    "company_stage": "Public",
+    "size": "5,000-10,000 employees",
+    "location": "San Jose, California",
+    "founded": "2005",
+    "roles": [
+      {
+        "title": "Cloud Solutions Architect",
+        "department": "Engineering",
+        "description": "Design and implement scalable cloud infrastructure solutions for enterprise clients, focusing on AWS and Azure platforms while ensuring security and performance optimization.",
+        "location": "San Jose, California",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "AWS",
+          "Azure",
+          "Kubernetes",
+          "Python",
+          "Infrastructure as Code"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Junior Software Developer",
+        "department": "Product Development",
+        "description": "Develop and maintain cloud-based applications and services, working with senior developers to implement new features and fix bugs.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Java",
+          "JavaScript",
+          "Git",
+          "REST APIs"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "VP of Product Strategy",
+        "department": "Product",
+        "description": "Lead product vision, strategy, and roadmap development while coordinating with engineering, sales, and marketing teams to ensure successful product launches and market adoption.",
+        "location": "San Jose, California",
+        "salary_range": [
+          220000,
+          280000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Product Management",
+          "Strategic Planning",
+          "Team Leadership",
+          "Market Analysis"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Technical Support Manager",
+        "department": "Customer Success",
+        "description": "Manage a team of technical support engineers, establish support processes, and ensure high customer satisfaction through effective issue resolution and proactive support.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          110000,
+          140000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Team Management",
+          "ITIL",
+          "Customer Service",
+          "Technical Troubleshooting"
+        ],
+        "experience_years": 6
+      }
+    ]
+  },
+  {
+    "company_name": "Neuromark Therapeutics",
+    "about": "Neuromark Therapeutics is a pioneering biopharmaceutical company focused on developing novel treatments for neurodegenerative disorders. Our flagship drug candidate targets early-stage Alzheimer's disease through innovative protein degradation technology.",
+    "industry": "Pharmaceuticals",
+    "company_stage": "Startup",
+    "size": "50-100 employees",
+    "location": "Cambridge, Massachusetts",
+    "founded": 2021,
+    "roles": [
+      {
+        "title": "Research Associate, Drug Discovery",
+        "department": "Research & Development",
+        "description": "Support early-stage drug discovery projects through conducting laboratory experiments, analyzing data, and maintaining detailed documentation of research findings.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Laboratory techniques",
+          "Data analysis",
+          "Cell culture",
+          "Documentation"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Clinical Research Manager",
+        "department": "Clinical Operations",
+        "description": "Lead and oversee clinical trials, coordinate with CROs, and ensure compliance with regulatory requirements while managing trial timelines and budgets.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Clinical trial management",
+          "GCP",
+          "Project management",
+          "Regulatory compliance"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Regulatory Affairs",
+        "department": "Regulatory",
+        "description": "Develop and implement regulatory strategies for drug development programs, manage interactions with regulatory authorities, and oversee regulatory submissions.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          180000,
+          220000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "FDA regulations",
+          "IND/NDA preparation",
+          "Regulatory strategy",
+          "Team leadership"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Business Development",
+        "department": "Business Development",
+        "description": "Lead partnership strategies, negotiate licensing deals, and identify strategic opportunities for company growth while managing relationships with potential partners and investors.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Deal structuring",
+          "Negotiation",
+          "Strategic planning",
+          "Partnership management"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Piedmont Realty Trust",
+    "about": "Piedmont Realty Trust is a publicly-traded REIT specializing in Class A office properties across major U.S. markets. The company owns, manages, and develops premium commercial real estate with a focus on sustainability and tenant satisfaction.",
+    "industry": "Real Estate",
+    "company_stage": "Public",
+    "size": "500-1000 employees",
+    "location": "Atlanta, Georgia",
+    "founded": "1997",
+    "roles": [
+      {
+        "title": "Leasing Coordinator",
+        "department": "Leasing",
+        "description": "Support leasing team with contract administration, tenant communications, and property showings. Maintain lease database and assist with market research.",
+        "location": "Atlanta, Georgia",
+        "salary_range": [
+          45000,
+          60000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Microsoft Office",
+          "Communication",
+          "Organization",
+          "Real Estate Documentation"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Property Manager",
+        "department": "Property Management",
+        "description": "Oversee operations of multiple Class A office properties, manage vendor relationships, develop property budgets, and ensure tenant satisfaction.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Property Management",
+          "Budget Management",
+          "Vendor Relations",
+          "Building Operations",
+          "Customer Service"
+        ],
+        "experience_years": 7
+      },
+      {
+        "title": "VP of Acquisitions",
+        "department": "Investments",
+        "description": "Lead acquisition strategy, evaluate potential investments, negotiate deals, and manage due diligence process for commercial property acquisitions across target markets.",
+        "location": "New York, New York",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Financial Modeling",
+          "Market Analysis",
+          "Deal Structuring",
+          "Negotiation",
+          "Commercial Real Estate"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Precision Dynamics Manufacturing",
+    "about": "A leading manufacturer of precision-engineered components and systems for aerospace, automotive, and industrial applications. Known for advanced manufacturing technologies and high-quality control standards.",
+    "industry": "Manufacturing",
+    "company_stage": "Public",
+    "size": "2,500-5,000 employees",
+    "location": "Grand Rapids, Michigan",
+    "founded": "1978",
+    "roles": [
+      {
+        "title": "Production Line Operator",
+        "department": "Operations",
+        "description": "Operate and monitor manufacturing equipment, ensure quality standards, and maintain production schedules for precision components manufacturing.",
+        "location": "Grand Rapids, Michigan",
+        "salary_range": [
+          35000,
+          48000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Machine Operation",
+          "Quality Control",
+          "Safety Protocols",
+          "Basic Mathematics"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Manufacturing Process Engineer",
+        "department": "Engineering",
+        "description": "Develop and optimize manufacturing processes, implement lean manufacturing principles, and coordinate with quality control teams to improve efficiency.",
+        "location": "Grand Rapids, Michigan",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Process Engineering",
+          "Lean Manufacturing",
+          "AutoCAD",
+          "Six Sigma",
+          "Project Management"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Lead all manufacturing operations, develop strategic initiatives, manage facility budgets, and oversee production optimization across multiple facilities.",
+        "location": "Grand Rapids, Michigan",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Operations Management",
+          "Strategic Planning",
+          "Budget Management",
+          "Leadership",
+          "Industry 4.0"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Atlas Solar Dynamics",
+    "about": "Atlas Solar Dynamics is a leading renewable energy company specializing in utility-scale solar power plants and energy storage solutions. With operations across North America, we develop, construct, and operate solar facilities that power millions of homes while advancing sustainable energy technology.",
+    "industry": "Energy",
+    "company_stage": "Public",
+    "size": "2,500-5,000 employees",
+    "location": "Phoenix, Arizona",
+    "founded": "2005",
+    "roles": [
+      {
+        "title": "Solar Installation Technician",
+        "department": "Operations",
+        "description": "Install and maintain solar panel systems at utility-scale facilities, ensuring proper configuration and optimal performance.",
+        "location": "Las Vegas, Nevada",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Solar PV Installation",
+          "Basic Electrical",
+          "Safety Protocols",
+          "Hand Tools"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Project Manager, Solar Development",
+        "department": "Project Management",
+        "description": "Lead utility-scale solar project development from initial planning through construction completion, managing budgets and stakeholder relationships.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Project Management",
+          "Solar Industry Knowledge",
+          "Budget Management",
+          "Stakeholder Communication"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Senior Energy Storage Engineer",
+        "department": "Engineering",
+        "description": "Design and optimize battery storage systems for solar facilities, leading technical specifications and integration planning.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Battery Storage Systems",
+          "Electrical Engineering",
+          "AutoCAD",
+          "Power Systems"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Grid Integration",
+        "department": "Technical Operations",
+        "description": "Direct the integration of solar facilities with existing power grids, ensuring compliance and optimal performance across multiple sites.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          150000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Grid Operations",
+          "Renewable Integration",
+          "Team Leadership",
+          "Regulatory Compliance"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Business Development",
+        "department": "Business Development",
+        "description": "Lead company growth strategy, identify new market opportunities, and establish partnerships for expanding solar operations nationwide.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          200000,
+          300000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Strategic Planning",
+          "Renewable Energy Markets",
+          "Contract Negotiation",
+          "Executive Leadership"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Alliance Automotive Systems",
+    "about": "Alliance Automotive Systems specializes in developing and manufacturing advanced suspension systems and chassis components for passenger vehicles and light trucks. With a focus on innovation and quality, we supply major automotive manufacturers across North America and Europe.",
+    "industry": "Automotive",
+    "company_stage": "Mature",
+    "size": "500-1000 employees",
+    "location": "Auburn Hills, Michigan, USA",
+    "founded": "1989",
+    "roles": [
+      {
+        "title": "Production Line Technician",
+        "department": "Manufacturing",
+        "description": "Operate and maintain production equipment for automotive suspension components, perform quality checks, and ensure compliance with safety protocols.",
+        "location": "Auburn Hills, Michigan",
+        "salary_range": [
+          38000,
+          52000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Manufacturing processes",
+          "Quality control",
+          "Basic mechanical skills",
+          "Safety procedures"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Quality Assurance Engineer",
+        "department": "Quality",
+        "description": "Develop and implement quality control procedures, conduct audits, and ensure compliance with industry standards and specifications.",
+        "location": "Auburn Hills, Michigan",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "ISO 9001",
+          "Statistical analysis",
+          "Quality management systems",
+          "PPAP"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Product Development Engineer",
+        "department": "Engineering",
+        "description": "Lead the design and development of new suspension systems, collaborate with OEM customers, and oversee prototype testing and validation.",
+        "location": "Auburn Hills, Michigan",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "CAD/CAE",
+          "Vehicle dynamics",
+          "Project management",
+          "FMEA"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Direct all manufacturing operations, supply chain management, and continuous improvement initiatives across multiple facilities.",
+        "location": "Auburn Hills, Michigan",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Operations management",
+          "Lean manufacturing",
+          "Strategic planning",
+          "P&L management"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "NexGen Power Solutions",
+    "about": "A leading provider of integrated energy solutions, specializing in power generation, renewable energy development, and grid modernization. The company operates multiple power plants across the United States and has a growing portfolio of solar and wind energy projects.",
+    "industry": "Energy",
+    "company_stage": "Public",
+    "size": "15,000-20,000 employees",
+    "location": "Houston, Texas",
+    "founded": "1978",
+    "roles": [
+      {
+        "title": "Power Plant Operator",
+        "department": "Operations",
+        "description": "Monitor and operate power generation equipment, maintain safety protocols, and ensure efficient plant operations.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Technical Operations",
+          "Safety Protocols",
+          "Equipment Monitoring",
+          "Basic Mechanical Skills"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Environmental Engineer",
+        "department": "Environmental Compliance",
+        "description": "Oversee environmental compliance programs and develop sustainability initiatives for power generation facilities.",
+        "location": "Houston, Texas",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Environmental Regulations",
+          "Compliance Management",
+          "Project Management",
+          "Risk Assessment"
+        ],
+        "experience_years": 7
+      },
+      {
+        "title": "Director of Renewable Energy Projects",
+        "department": "Renewable Energy",
+        "description": "Lead the development and implementation of utility-scale solar and wind energy projects.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          150000,
+          190000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Renewable Energy Development",
+          "Project Management",
+          "Team Leadership",
+          "Financial Analysis"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Grid Systems Engineer",
+        "department": "Transmission & Distribution",
+        "description": "Design and maintain electrical grid systems, focusing on reliability and modernization initiatives.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          80000,
+          110000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Electrical Engineering",
+          "Grid Operations",
+          "SCADA Systems",
+          "Power Systems"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "VP of Strategic Operations",
+        "department": "Executive",
+        "description": "Direct company-wide operational strategy and oversee multiple business units across power generation portfolio.",
+        "location": "Houston, Texas",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Executive Leadership",
+          "Strategic Planning",
+          "Business Development",
+          "Operational Excellence"
+        ],
+        "experience_years": 15
+      },
+      {
+        "title": "Energy Trading Analyst",
+        "department": "Energy Trading",
+        "description": "Analyze energy markets and execute trading strategies for power and renewable energy credits.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          70000,
+          95000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Market Analysis",
+          "Financial Modeling",
+          "Data Analytics",
+          "Risk Management"
+        ],
+        "experience_years": 1
+      }
+    ]
+  },
+  {
+    "company_name": "Ralph Lauren Corporation",
+    "about": "Ralph Lauren Corporation is a global leader in the design, marketing, and distribution of premium lifestyle products, including apparel, accessories, home furnishings, and fragrances. The company's distinctive brand image and lifestyle offerings have helped establish its position as one of the world's most widely recognized consumer brands.",
+    "industry": "Fashion",
+    "company_stage": "Public",
+    "size": "15,000-20,000 employees",
+    "location": "New York City, NY",
+    "founded": "1967",
+    "roles": [
+      {
+        "title": "Visual Merchandising Assistant",
+        "department": "Retail Operations",
+        "description": "Support the visual merchandising team in creating and maintaining attractive store displays, window presentations, and ensuring brand guidelines are followed across retail locations.",
+        "location": "Los Angeles, CA",
+        "salary_range": [
+          38000,
+          48000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Visual Merchandising",
+          "Retail Display",
+          "Adobe Creative Suite",
+          "Communication"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Product Developer",
+        "department": "Product Development",
+        "description": "Lead the development of seasonal collections, working closely with designers and manufacturers to ensure product quality, fit, and timeline adherence.",
+        "location": "New York City, NY",
+        "salary_range": [
+          85000,
+          110000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Garment Construction",
+          "Technical Design",
+          "PLM Systems",
+          "Vendor Management"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Digital Marketing Director",
+        "department": "Marketing",
+        "description": "Oversee all digital marketing initiatives, including e-commerce strategy, social media presence, and digital advertising campaigns across global markets.",
+        "location": "New York City, NY",
+        "salary_range": [
+          150000,
+          185000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Digital Strategy",
+          "E-commerce",
+          "Brand Management",
+          "Analytics",
+          "Team Leadership"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Global Supply Chain",
+        "department": "Operations",
+        "description": "Lead and optimize the company's global supply chain operations, including sourcing, production, logistics, and distribution strategies.",
+        "location": "Greenwich, CT",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Supply Chain Management",
+          "Strategic Planning",
+          "Risk Management",
+          "International Trade",
+          "Executive Leadership"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Southern California Power & Gas",
+    "about": "One of the largest utility companies in the Western United States, providing electricity and natural gas services to over 20 million customers. Known for investments in renewable energy and smart grid technology.",
+    "industry": "Utilities",
+    "company_stage": "Public",
+    "size": "15,000-20,000 employees",
+    "location": "Los Angeles, California",
+    "founded": "1886",
+    "roles": [
+      {
+        "title": "Field Service Technician",
+        "department": "Operations",
+        "description": "Perform installation, maintenance, and repair of electrical distribution equipment and meters for residential and commercial customers.",
+        "location": "San Diego, California",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Electrical Systems",
+          "Safety Protocols",
+          "Basic Troubleshooting",
+          "Valid Driver's License"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Power Plant Operations Supervisor",
+        "department": "Generation",
+        "description": "Oversee daily operations of power generation facilities, manage staff schedules, and ensure compliance with safety and environmental regulations.",
+        "location": "Bakersfield, California",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Power Plant Operations",
+          "Team Leadership",
+          "OSHA Regulations",
+          "Emergency Response"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Senior Environmental Engineer",
+        "department": "Environmental Compliance",
+        "description": "Lead environmental impact assessments, ensure regulatory compliance, and develop sustainability initiatives across power generation facilities.",
+        "location": "Los Angeles, California",
+        "salary_range": [
+          110000,
+          150000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Environmental Regulations",
+          "Project Management",
+          "Risk Assessment",
+          "Technical Writing"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Grid Modernization",
+        "department": "Infrastructure",
+        "description": "Lead strategic initiatives for smart grid implementation, oversee technology upgrades, and manage large-scale infrastructure projects.",
+        "location": "Los Angeles, California",
+        "salary_range": [
+          160000,
+          220000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Smart Grid Technologies",
+          "Strategic Planning",
+          "Budget Management",
+          "Stakeholder Management"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Renewable Energy Development",
+        "department": "Executive",
+        "description": "Drive company's renewable energy strategy, oversee solar and wind project development, and lead sustainability initiatives.",
+        "location": "Los Angeles, California",
+        "salary_range": [
+          250000,
+          400000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Renewable Energy Markets",
+          "Business Development",
+          "Executive Leadership",
+          "Strategic Planning"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Warner Bros. Discovery",
+    "about": "Warner Bros. Discovery is a premier global media and entertainment company offering audiences the world's most differentiated and complete portfolio of content, brands and franchises across television, film, streaming and gaming platforms.",
+    "industry": "Entertainment",
+    "company_stage": "Public",
+    "size": "30,000-35,000 employees",
+    "location": "New York City, NY",
+    "founded": "2022",
+    "roles": [
+      {
+        "title": "Content Production Assistant",
+        "department": "Production",
+        "description": "Support production teams in day-to-day operations, assist with scheduling, coordinate with talent, and maintain production documentation.",
+        "location": "Burbank, CA",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Microsoft Office",
+          "Production Coordination",
+          "Communication",
+          "Organization"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Content Strategy Manager",
+        "department": "Content Strategy",
+        "description": "Lead content strategy initiatives across streaming platforms, analyze viewing trends, and develop programming recommendations for maximum audience engagement.",
+        "location": "New York City, NY",
+        "salary_range": [
+          110000,
+          150000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Content Strategy",
+          "Data Analytics",
+          "Market Research",
+          "Project Management"
+        ],
+        "experience_years": 7
+      },
+      {
+        "title": "VP of Animation Production",
+        "department": "Animation",
+        "description": "Oversee all animation production activities, manage studio relationships, drive creative excellence, and lead strategic planning for animated content.",
+        "location": "Burbank, CA",
+        "salary_range": [
+          250000,
+          400000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Animation Production",
+          "Team Leadership",
+          "Budget Management",
+          "Strategic Planning"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Nexus Strategy Partners",
+    "about": "Nexus Strategy Partners is a boutique management consulting firm specializing in digital transformation, operational excellence, and organizational change management for mid-market companies. We combine data-driven insights with practical implementation strategies to deliver measurable results for our clients.",
+    "industry": "Consulting",
+    "company_stage": "Startup",
+    "size": "25-50 employees",
+    "location": "Boston, Massachusetts",
+    "founded": "2021",
+    "roles": [
+      {
+        "title": "Associate Consultant",
+        "department": "Consulting",
+        "description": "Support client engagement teams in research, analysis, and presentation development. Work directly with senior consultants to deliver strategic recommendations to clients.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          75000,
+          90000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Data Analysis",
+          "PowerPoint",
+          "Excel",
+          "Research",
+          "Problem Solving"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Consultant",
+        "department": "Consulting",
+        "description": "Lead client projects, develop strategic recommendations, and manage small teams of consultants. Drive client relationships and deliver high-impact solutions.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          120000,
+          150000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Project Management",
+          "Client Management",
+          "Strategy Development",
+          "Team Leadership",
+          "Industry Analysis"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Director of Digital Transformation",
+        "department": "Digital Practice",
+        "description": "Lead the digital transformation practice, develop service offerings, and oversee multiple client engagements. Drive business development and thought leadership initiatives.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          180000,
+          220000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Digital Strategy",
+          "Change Management",
+          "Practice Development",
+          "Business Development",
+          "Technology Implementation"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Business Development",
+        "department": "Business Development",
+        "description": "Drive firm growth through new client acquisition, relationship management, and market expansion. Develop and execute sales strategies and lead BD team.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          200000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Sales Strategy",
+          "Relationship Building",
+          "Market Development",
+          "Leadership",
+          "Consulting Services"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Operations Manager",
+        "department": "Operations",
+        "description": "Oversee internal operations, including resource allocation, project staffing, and operational efficiency initiatives. Manage administrative staff and internal processes.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          90000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Operations Management",
+          "Process Improvement",
+          "Staff Management",
+          "Project Coordination",
+          "Budget Management"
+        ],
+        "experience_years": 3
+      }
+    ]
+  },
+  {
+    "company_name": "Heartland Crop Solutions",
+    "about": "Private equity-backed agricultural technology company specializing in precision farming solutions, crop optimization software, and sustainable farming practices. Partners with farmers across North America to improve yield efficiency and reduce environmental impact.",
+    "industry": "Agriculture",
+    "company_stage": "Growth",
+    "size": "250-500 employees",
+    "location": "Des Moines, Iowa",
+    "founded": "2015",
+    "roles": [
+      {
+        "title": "Field Operations Specialist",
+        "department": "Operations",
+        "description": "Support farmers with implementation of precision agriculture technologies and provide on-site technical assistance for crop management systems.",
+        "location": "Sioux Falls, South Dakota",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Agriculture Operations",
+          "GPS Technology",
+          "Basic Data Analysis",
+          "Customer Service"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Regional Sales Manager",
+        "department": "Sales",
+        "description": "Lead agricultural solution sales in the Midwest region, develop client relationships, and manage territory growth strategies.",
+        "location": "Des Moines, Iowa",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Sales Management",
+          "Agriculture Industry Knowledge",
+          "Account Management",
+          "Territory Planning"
+        ],
+        "experience_years": 7
+      },
+      {
+        "title": "VP of Agricultural Technology",
+        "department": "Technology",
+        "description": "Lead strategic development of precision farming technologies, oversee R&D initiatives, and drive innovation in agricultural software solutions.",
+        "location": "Des Moines, Iowa",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "AgTech Leadership",
+          "Strategic Planning",
+          "Product Development",
+          "Digital Agriculture"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "TechDrive Solutions",
+    "about": "TechDrive Solutions is a leading manufacturer of advanced driver assistance systems (ADAS) and autonomous vehicle technologies. We partner with major automotive manufacturers worldwide to develop and integrate cutting-edge safety and automation solutions for next-generation vehicles.",
+    "industry": "Automotive",
+    "company_stage": "Mature",
+    "size": "5,000-10,000 employees",
+    "location": "Auburn Hills, Michigan, USA",
+    "founded": "1992",
+    "roles": [
+      {
+        "title": "Quality Control Technician",
+        "department": "Manufacturing",
+        "description": "Perform quality inspections on ADAS components and ensure compliance with safety standards and specifications. Document test results and maintain quality control records.",
+        "location": "Auburn Hills, Michigan",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Quality Control",
+          "Technical Documentation",
+          "Measurement Tools",
+          "Basic Electronics"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Systems Engineer",
+        "department": "Engineering",
+        "description": "Lead the development and integration of autonomous driving systems, collaborate with cross-functional teams, and optimize system performance for production vehicles.",
+        "location": "Auburn Hills, Michigan",
+        "salary_range": [
+          95000,
+          140000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Embedded Systems",
+          "C++",
+          "AUTOSAR",
+          "System Architecture",
+          "Vehicle Networks"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Product Strategy",
+        "department": "Product Management",
+        "description": "Define and execute product strategy for ADAS technologies, lead market analysis, and work with automotive OEMs to align product roadmap with industry needs.",
+        "location": "Auburn Hills, Michigan",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Strategic Planning",
+          "Automotive Industry Knowledge",
+          "Product Management",
+          "Business Development",
+          "Executive Leadership"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Shield Insurance Partners",
+    "about": "Shield Insurance Partners is a PE-backed insurance technology company focused on modernizing commercial property and casualty insurance through digital solutions and AI-driven risk assessment. Backed by Thoma Bravo, we're revolutionizing how businesses obtain and manage their insurance coverage.",
+    "industry": "Insurance",
+    "company_stage": "Growth",
+    "size": "500-1000 employees",
+    "location": "Charlotte, NC",
+    "founded": "2015",
+    "roles": [
+      {
+        "title": "Insurance Claims Associate",
+        "department": "Claims Operations",
+        "description": "Process and evaluate insurance claims, communicate with clients and adjusters, and ensure timely resolution of claims within established guidelines.",
+        "location": "Charlotte, NC",
+        "salary_range": [
+          45000,
+          60000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Claims Processing",
+          "Customer Service",
+          "Microsoft Office",
+          "Documentation"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Underwriter",
+        "department": "Underwriting",
+        "description": "Evaluate complex commercial insurance risks, determine appropriate coverage terms, and price policies for medium to large business accounts.",
+        "location": "Atlanta, GA",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Commercial Underwriting",
+          "Risk Assessment",
+          "Financial Analysis",
+          "Industry Knowledge"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Director of Actuarial Services",
+        "department": "Actuarial",
+        "description": "Lead the actuarial team in developing pricing models, analyzing loss trends, and providing strategic insights for product development.",
+        "location": "Charlotte, NC",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Actuarial Science",
+          "Statistical Analysis",
+          "Team Leadership",
+          "Insurance Pricing"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Digital Innovation",
+        "department": "Technology",
+        "description": "Drive digital transformation initiatives, oversee insurtech product development, and lead technology strategy across the organization.",
+        "location": "Charlotte, NC",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Digital Strategy",
+          "InsurTech",
+          "Product Management",
+          "Technology Leadership"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Risk Management Analyst",
+        "department": "Risk Management",
+        "description": "Analyze insurance portfolios, assess risk exposure, and provide recommendations for risk mitigation strategies.",
+        "location": "Dallas, TX",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Risk Analysis",
+          "Data Analytics",
+          "Insurance Products",
+          "Financial Modeling"
+        ],
+        "experience_years": 2
+      }
+    ]
+  },
+  {
+    "company_name": "Vertex Pharmaceuticals",
+    "about": "Vertex Pharmaceuticals is a global biotechnology company that invests in scientific innovation to create transformative medicines for serious diseases. The company has multiple approved medicines for cystic fibrosis and a robust clinical pipeline of small molecule, cell, and genetic therapies.",
+    "industry": "Biotechnology",
+    "company_stage": "Public",
+    "size": "4,000-5,000 employees",
+    "location": "Boston, Massachusetts",
+    "founded": "1989",
+    "roles": [
+      {
+        "title": "Research Associate I",
+        "department": "Research & Development",
+        "description": "Conduct laboratory experiments and assist senior scientists in drug discovery projects, focusing on cell-based assays and protein analysis.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Cell Culture",
+          "PCR",
+          "Western Blot",
+          "Data Analysis"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Process Development Engineer",
+        "department": "Manufacturing",
+        "description": "Lead process development initiatives for new therapeutic candidates and optimize existing manufacturing processes for commercial products.",
+        "location": "San Diego, California",
+        "salary_range": [
+          110000,
+          150000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Process Development",
+          "GMP",
+          "Tech Transfer",
+          "Project Management"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Clinical Operations",
+        "department": "Clinical Development",
+        "description": "Oversee clinical trial operations, manage CRO relationships, and ensure compliance with regulatory requirements for multiple clinical programs.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          180000,
+          230000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Clinical Operations",
+          "GCP",
+          "Trial Management",
+          "Regulatory Compliance"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Vice President of Business Development",
+        "department": "Business Development",
+        "description": "Lead strategic partnerships, licensing deals, and M&A activities to expand the company's therapeutic portfolio and market presence.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Deal Structuring",
+          "Negotiation",
+          "Strategic Planning",
+          "Industry Network"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "AthletePeak Analytics",
+    "about": "AthletePeak Analytics develops AI-powered performance tracking and analytics software for professional sports teams and elite athletes. Our technology combines wearable sensors, computer vision, and machine learning to provide real-time insights into athlete performance, injury prevention, and training optimization.",
+    "industry": "Sports",
+    "company_stage": "Startup",
+    "size": "25-50 employees",
+    "location": "Boston, Massachusetts",
+    "founded": "2021",
+    "roles": [
+      {
+        "title": "VP of Product Development",
+        "department": "Product",
+        "description": "Lead the strategic direction and development of our sports analytics platform, managing cross-functional teams and establishing product roadmap.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          165000,
+          210000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Product Management",
+          "Sports Technology",
+          "Machine Learning",
+          "Team Leadership",
+          "Strategic Planning"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Sports Data Analyst",
+        "department": "Analytics",
+        "description": "Analyze athletic performance data and create actionable insights for professional sports teams using our proprietary software platform.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Data Analysis",
+          "Statistics",
+          "Python",
+          "Sports Science",
+          "SQL"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Software Engineer",
+        "department": "Engineering",
+        "description": "Develop and maintain core features of our sports analytics platform, focusing on real-time data processing and machine learning implementations.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          120000,
+          160000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Python",
+          "Machine Learning",
+          "AWS",
+          "React",
+          "MongoDB"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Customer Success Manager",
+        "department": "Customer Success",
+        "description": "Manage relationships with professional sports team clients, ensure successful platform implementation, and drive customer satisfaction.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          70000,
+          90000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Account Management",
+          "Customer Service",
+          "Sports Industry Knowledge",
+          "Communication",
+          "Problem Solving"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Director of Sales",
+        "department": "Sales",
+        "description": "Lead sales strategy and team to expand our client base among professional sports organizations and elite training facilities.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          130000,
+          180000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Sales Leadership",
+          "Sports Industry Network",
+          "Business Development",
+          "Contract Negotiation",
+          "CRM"
+        ],
+        "experience_years": 8
+      }
+    ]
+  },
+  {
+    "company_name": "Meridian Law Solutions",
+    "about": "A publicly traded legal technology and services company that provides e-discovery, legal document management, and compliance solutions to law firms and corporate legal departments worldwide. Known for innovative legal tech platforms and consulting services.",
+    "industry": "Legal",
+    "company_stage": "Public",
+    "size": "2,500-3,000 employees",
+    "location": "Chicago, Illinois",
+    "founded": "1998",
+    "roles": [
+      {
+        "title": "Legal Document Review Specialist",
+        "department": "Document Review Services",
+        "description": "Review and analyze legal documents for relevance, privilege, and confidentiality in e-discovery projects.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Document Review",
+          "Legal Research",
+          "Attention to Detail",
+          "Microsoft Office"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Legal Technology Consultant",
+        "department": "Legal Tech Solutions",
+        "description": "Advise clients on legal technology implementation and provide training on e-discovery platforms.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "E-Discovery Tools",
+          "Project Management",
+          "Client Relations",
+          "Technical Training"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Compliance Attorney",
+        "department": "Legal Compliance",
+        "description": "Lead compliance initiatives and provide legal guidance on regulatory matters for clients.",
+        "location": "New York, New York",
+        "salary_range": [
+          150000,
+          200000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Regulatory Compliance",
+          "Legal Analysis",
+          "Risk Management",
+          "Advisory Services"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Legal Operations",
+        "department": "Legal Operations",
+        "description": "Oversee legal department operations, technology implementation, and process improvement initiatives.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Operations Management",
+          "Legal Tech Strategy",
+          "Team Leadership",
+          "Budget Management"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Product Development",
+        "department": "Product",
+        "description": "Lead the development and innovation of legal technology products and solutions.",
+        "location": "San Francisco, California",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Product Strategy",
+          "Legal Tech Innovation",
+          "Executive Leadership",
+          "Market Analysis"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Meridian Hotels & Resorts",
+    "about": "Meridian Hotels & Resorts is a luxury hospitality company operating upscale hotels and resorts across North America and Europe. Known for exceptional service standards and distinctive property designs, we combine modern luxury with local cultural elements at each destination.",
+    "industry": "Hospitality",
+    "company_stage": "Mature",
+    "size": "5,000-10,000 employees",
+    "location": "Chicago, Illinois",
+    "founded": "1985",
+    "roles": [
+      {
+        "title": "Guest Services Representative",
+        "department": "Front Office",
+        "description": "Provide exceptional guest service at our flagship Chicago property, managing check-in/out processes, addressing guest inquiries, and ensuring memorable guest experiences.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          35000,
+          45000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Customer Service",
+          "Communication",
+          "Opera PMS",
+          "Problem Solving"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Restaurant Manager",
+        "department": "Food & Beverage",
+        "description": "Oversee daily operations of hotel restaurant, manage staff scheduling, maintain quality standards, and ensure guest satisfaction while optimizing revenue.",
+        "location": "Miami, Florida",
+        "salary_range": [
+          55000,
+          70000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Restaurant Operations",
+          "Staff Management",
+          "Food Safety",
+          "Inventory Management"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Director of Revenue Management",
+        "department": "Revenue Management",
+        "description": "Lead strategic pricing and inventory management across multiple properties, optimize revenue streams, and develop forecasting models.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Revenue Management",
+          "Data Analytics",
+          "Strategic Planning",
+          "Market Analysis"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Direct overall operations for North American properties, develop and implement strategic initiatives, and ensure operational excellence across all locations.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Hospitality Management",
+          "Strategic Leadership",
+          "P&L Management",
+          "Brand Development"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "GridFlow Solutions",
+    "about": "GridFlow Solutions is an innovative smart grid technology company developing AI-powered solutions for utility companies to optimize power distribution, reduce outages, and improve grid reliability. Our platform uses machine learning and IoT sensors to provide real-time grid monitoring and predictive maintenance capabilities.",
+    "industry": "Utilities",
+    "company_stage": "Startup",
+    "size": "50-100 employees",
+    "location": "Austin, Texas",
+    "founded": 2021,
+    "roles": [
+      {
+        "title": "Grid Operations Analyst",
+        "department": "Operations",
+        "description": "Monitor and analyze smart grid performance metrics, identify optimization opportunities, and create reports on system efficiency. Support the implementation of new grid management solutions.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Data Analysis",
+          "Excel",
+          "Power Systems",
+          "SQL"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Power Systems Engineer",
+        "department": "Engineering",
+        "description": "Lead the technical design and implementation of smart grid solutions, develop power flow optimization algorithms, and collaborate with utility partners on system integration.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          110000,
+          150000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Power Systems Engineering",
+          "SCADA",
+          "Python",
+          "Smart Grid Technologies"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Business Development",
+        "department": "Sales",
+        "description": "Drive company growth through strategic partnerships with utility companies, develop go-to-market strategies, and oversee the sales team. Build and maintain relationships with key industry stakeholders.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Business Development",
+          "Utility Industry Knowledge",
+          "Strategic Planning",
+          "Leadership"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Cornerstone Property Ventures",
+    "about": "Cornerstone Property Ventures is a rapidly growing real estate investment and development firm specializing in multi-family residential and mixed-use commercial properties across the Northeast. Backed by Blackstone Real Estate Partners, we focus on value-add opportunities and sustainable development projects.",
+    "industry": "Real Estate",
+    "company_stage": "Growth",
+    "size": "250-500 employees",
+    "location": "Boston, Massachusetts",
+    "founded": "2015",
+    "roles": [
+      {
+        "title": "Development Associate",
+        "department": "Real Estate Development",
+        "description": "Support project managers in analyzing new development opportunities and managing existing projects through the development lifecycle.",
+        "location": "Boston, MA",
+        "salary_range": [
+          65000,
+          85000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Financial Modeling",
+          "Microsoft Office",
+          "Real Estate Analysis"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Property Manager",
+        "department": "Property Management",
+        "description": "Oversee operations of multiple residential properties, including staff management, budget oversight, and tenant relations.",
+        "location": "Hartford, CT",
+        "salary_range": [
+          85000,
+          110000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Property Management",
+          "Team Leadership",
+          "Budget Management",
+          "Tenant Relations"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Director of Acquisitions",
+        "department": "Investments",
+        "description": "Lead the sourcing, analysis, and execution of real estate investment opportunities across multiple property types.",
+        "location": "Boston, MA",
+        "salary_range": [
+          150000,
+          200000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Deal Structuring",
+          "Financial Analysis",
+          "Market Research",
+          "Negotiation"
+        ],
+        "experience_years": 10
+      },
+      {
+        "title": "VP of Asset Management",
+        "department": "Asset Management",
+        "description": "Direct the strategic planning and performance optimization of the company's real estate portfolio.",
+        "location": "Boston, MA",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Portfolio Management",
+          "Strategic Planning",
+          "Real Estate Finance",
+          "Risk Management"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "Construction Project Manager",
+        "department": "Construction",
+        "description": "Manage multiple construction projects, including budget control, contractor coordination, and timeline management.",
+        "location": "Providence, RI",
+        "salary_range": [
+          90000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Construction Management",
+          "Project Planning",
+          "Contractor Relations",
+          "Budget Control"
+        ],
+        "experience_years": 3
+      }
+    ]
+  },
+  {
+    "company_name": "Helix Genomics Solutions",
+    "about": "Helix Genomics Solutions is a leading biotechnology company specializing in developing innovative gene therapy treatments and personalized medicine solutions. Our breakthrough technologies focus on rare genetic disorders and oncology applications, with multiple products in clinical trials.",
+    "industry": "Biotechnology",
+    "company_stage": "Public",
+    "size": "1000-5000 employees",
+    "location": "Cambridge, Massachusetts",
+    "founded": "2004",
+    "roles": [
+      {
+        "title": "Research Associate I",
+        "department": "Research & Development",
+        "description": "Support laboratory research activities in gene therapy development, maintain cell cultures, and assist with experimental procedures under supervision.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Cell Culture",
+          "PCR",
+          "Aseptic Technique",
+          "Data Analysis"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Senior Bioprocess Engineer",
+        "department": "Manufacturing",
+        "description": "Lead process development and optimization for large-scale biological production, ensure compliance with GMP standards, and manage tech transfer activities.",
+        "location": "Waltham, Massachusetts",
+        "salary_range": [
+          110000,
+          150000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Bioprocess Engineering",
+          "GMP",
+          "Scale-up Operations",
+          "Process Validation"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Clinical Operations",
+        "department": "Clinical Development",
+        "description": "Oversee clinical trial operations, develop study protocols, manage CRO relationships, and ensure regulatory compliance across multiple clinical programs.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          180000,
+          220000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Clinical Trial Management",
+          "ICH-GCP",
+          "Regulatory Compliance",
+          "Project Management"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Business Development",
+        "department": "Business Development",
+        "description": "Lead strategic partnerships, licensing deals, and M&A activities. Drive company growth through new business opportunities and maintain relationships with key industry partners.",
+        "location": "Cambridge, Massachusetts",
+        "salary_range": [
+          250000,
+          350000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Business Development",
+          "Negotiation",
+          "Strategic Planning",
+          "Life Sciences Industry Knowledge"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "J.B. Hunt Transport Services",
+    "about": "One of North America's largest transportation logistics companies, providing intermodal, dedicated contract services, truckload, final mile delivery, and freight brokerage services. The company operates one of the largest fleets of trucks in the industry and maintains strategic partnerships with major railways.",
+    "industry": "Transportation",
+    "company_stage": "Public",
+    "size": "30,000-35,000 employees",
+    "location": "Lowell, Arkansas, USA",
+    "founded": "1961",
+    "roles": [
+      {
+        "title": "Entry Level Truck Driver",
+        "department": "Operations",
+        "description": "Transport freight safely and efficiently across regional or national routes while maintaining DOT compliance and customer service standards.",
+        "location": "Dallas, Texas",
+        "salary_range": [
+          45000,
+          65000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "CDL-A License",
+          "Clean Driving Record",
+          "DOT Regulations",
+          "Time Management"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Regional Fleet Manager",
+        "department": "Fleet Operations",
+        "description": "Oversee regional fleet operations, manage driver teams, and optimize route efficiency while ensuring safety compliance and customer satisfaction.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Fleet Management",
+          "Team Leadership",
+          "Logistics Planning",
+          "DOT Compliance",
+          "Performance Analysis"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Vice President of Supply Chain Solutions",
+        "department": "Supply Chain",
+        "description": "Lead strategic development of supply chain solutions, oversee major client relationships, and drive innovation in transportation and logistics services.",
+        "location": "Lowell, Arkansas",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Supply Chain Management",
+          "Strategic Planning",
+          "P&L Management",
+          "Enterprise Sales",
+          "Industry Relations"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "LegalStack",
+    "about": "LegalStack is a legal technology startup developing an AI-powered contract management and analysis platform that helps law firms and corporate legal departments streamline their document review processes, automate routine legal tasks, and enhance compliance monitoring.",
+    "industry": "Legal",
+    "company_stage": "Startup",
+    "size": "50-100 employees",
+    "location": "Boston, Massachusetts",
+    "founded": "2021",
+    "roles": [
+      {
+        "title": "Junior Legal Software Developer",
+        "department": "Engineering",
+        "description": "Develop and maintain core features of our legal document analysis platform, working with machine learning models and natural language processing.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          85000,
+          110000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Python",
+          "JavaScript",
+          "API Development",
+          "Legal Technology"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Legal Product Manager",
+        "department": "Product",
+        "description": "Lead product strategy and development for our contract management solution, working closely with legal SMEs and engineering teams.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Product Management",
+          "Legal Industry Knowledge",
+          "Agile",
+          "User Research"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Legal Content Specialist",
+        "department": "Legal Operations",
+        "description": "Create and maintain legal content templates, develop training materials, and ensure accuracy of legal document classifications.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          110000,
+          150000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Legal Writing",
+          "Contract Law",
+          "Content Management",
+          "Legal Research"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Director of Customer Success",
+        "department": "Customer Success",
+        "description": "Lead customer success strategy, manage key client relationships, and ensure successful platform adoption among law firm clients.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          140000,
+          180000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Customer Success",
+          "Legal Operations",
+          "Team Management",
+          "Strategic Planning"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Legal Affairs",
+        "department": "Legal",
+        "description": "Oversee legal operations, compliance, and strategic partnerships while providing legal guidance for product development and company operations.",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          200000,
+          275000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Corporate Law",
+          "Legal Tech",
+          "Business Strategy",
+          "Risk Management"
+        ],
+        "experience_years": 12
+      }
+    ]
+  },
+  {
+    "company_name": "Blackwood & Sons Legal",
+    "about": "Founded in 1978, Blackwood & Sons Legal is a respected family-owned law firm specializing in corporate law, estate planning, and civil litigation. With a legacy of excellence spanning three generations, we combine traditional values with modern legal practices to serve our diverse client base.",
+    "industry": "Legal",
+    "company_stage": "Mature",
+    "size": "50-100 employees",
+    "location": "Boston, Massachusetts",
+    "founded": "1978",
+    "roles": [
+      {
+        "title": "Legal Assistant",
+        "department": "Legal Support",
+        "description": "Support attorneys by preparing legal documents, maintaining files, and coordinating with clients",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          45000,
+          60000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Document Management",
+          "Legal Research",
+          "Microsoft Office"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Associate Attorney",
+        "department": "Corporate Law",
+        "description": "Handle corporate transactions, contracts, and provide legal counsel to business clients",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          90000,
+          130000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Corporate Law",
+          "Contract Drafting",
+          "Negotiation"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Senior Estate Planning Attorney",
+        "department": "Estate Planning",
+        "description": "Lead estate planning practice, develop comprehensive estate plans, and mentor junior attorneys",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          150000,
+          200000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "Estate Planning",
+          "Tax Law",
+          "Client Relations"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "Director of Litigation",
+        "department": "Litigation",
+        "description": "Oversee civil litigation practice, manage complex cases, and develop litigation strategy",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Civil Litigation",
+          "Trial Experience",
+          "Team Leadership"
+        ],
+        "experience_years": 12
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Manage firm operations, including finance, HR, and technology infrastructure",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          200000,
+          275000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Law Firm Management",
+          "Financial Planning",
+          "Operations Management"
+        ],
+        "experience_years": 15
+      },
+      {
+        "title": "Business Development Manager",
+        "department": "Marketing",
+        "description": "Lead client acquisition efforts and develop marketing strategies for firm growth",
+        "location": "Boston, Massachusetts",
+        "salary_range": [
+          85000,
+          120000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Business Development",
+          "Marketing Strategy",
+          "Legal Industry Knowledge"
+        ],
+        "experience_years": 5
+      }
+    ]
+  },
+  {
+    "company_name": "Meridian Resorts International",
+    "about": "Meridian Resorts International is a leading luxury hotel and resort management company operating high-end properties across North America, Europe, and Asia. Known for exceptional guest experiences, innovative hospitality solutions, and sustainable tourism practices.",
+    "industry": "Hospitality",
+    "company_stage": "Public",
+    "size": "15,000-20,000 employees",
+    "location": "Chicago, Illinois",
+    "founded": "1986",
+    "roles": [
+      {
+        "title": "Guest Services Representative",
+        "department": "Front Office Operations",
+        "description": "Handle guest check-in/check-out, respond to guest inquiries, and ensure exceptional service delivery at our flagship Chicago property.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          35000,
+          45000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "Customer Service",
+          "Communication",
+          "Hotel Management Software",
+          "Problem Solving"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Food and Beverage Manager",
+        "department": "Food & Beverage",
+        "description": "Oversee restaurant operations, manage staff scheduling, maintain quality standards, and optimize dining service efficiency.",
+        "location": "Miami, Florida",
+        "salary_range": [
+          55000,
+          75000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Restaurant Management",
+          "Staff Leadership",
+          "Inventory Control",
+          "Budget Management"
+        ],
+        "experience_years": 3
+      },
+      {
+        "title": "Director of Revenue Management",
+        "department": "Revenue Management",
+        "description": "Lead pricing strategy, optimize revenue streams, analyze market trends, and develop competitive positioning strategies.",
+        "location": "Las Vegas, Nevada",
+        "salary_range": [
+          95000,
+          130000
+        ],
+        "seniority_level": "Director",
+        "required_skills": [
+          "Revenue Management",
+          "Data Analytics",
+          "Strategic Planning",
+          "Market Analysis"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Global Operations",
+        "department": "Operations",
+        "description": "Direct worldwide hotel operations, develop strategic initiatives, ensure brand standards, and drive operational excellence across all properties.",
+        "location": "Chicago, Illinois",
+        "salary_range": [
+          180000,
+          250000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Strategic Leadership",
+          "International Operations",
+          "P&L Management",
+          "Brand Development"
+        ],
+        "experience_years": 15
+      }
+    ]
+  },
+  {
+    "company_name": "Peterson Metalworks & Sons",
+    "about": "Founded in 1967, Peterson Metalworks & Sons is a family-owned precision metal manufacturing company specializing in custom fabrication, CNC machining, and industrial equipment components. With three generations of expertise, we serve automotive, aerospace, and industrial clients with high-quality metal solutions.",
+    "industry": "Manufacturing",
+    "company_stage": "Mature",
+    "size": "100-250 employees",
+    "location": "Grand Rapids, Michigan",
+    "founded": "1967",
+    "roles": [
+      {
+        "title": "CNC Machine Operator",
+        "department": "Production",
+        "description": "Operate and maintain CNC machines to produce precision metal parts according to specifications. Monitor production quality and perform basic maintenance.",
+        "location": "Grand Rapids, Michigan",
+        "salary_range": [
+          38000,
+          52000
+        ],
+        "seniority_level": "Entry",
+        "required_skills": [
+          "CNC Operation",
+          "Blueprint Reading",
+          "Quality Control",
+          "Basic Math"
+        ],
+        "experience_years": 0
+      },
+      {
+        "title": "Manufacturing Process Engineer",
+        "department": "Engineering",
+        "description": "Develop and optimize manufacturing processes, implement quality control measures, and coordinate with production teams to improve efficiency.",
+        "location": "Grand Rapids, Michigan",
+        "salary_range": [
+          75000,
+          95000
+        ],
+        "seniority_level": "Mid",
+        "required_skills": [
+          "Process Engineering",
+          "Lean Manufacturing",
+          "AutoCAD",
+          "Six Sigma"
+        ],
+        "experience_years": 5
+      },
+      {
+        "title": "Quality Assurance Manager",
+        "department": "Quality",
+        "description": "Lead quality control initiatives, manage QA team, ensure compliance with industry standards, and maintain quality management systems.",
+        "location": "Grand Rapids, Michigan",
+        "salary_range": [
+          90000,
+          120000
+        ],
+        "seniority_level": "Senior",
+        "required_skills": [
+          "ISO 9001",
+          "Quality Management Systems",
+          "Team Leadership",
+          "Statistical Analysis"
+        ],
+        "experience_years": 8
+      },
+      {
+        "title": "VP of Operations",
+        "department": "Operations",
+        "description": "Oversee all manufacturing operations, develop strategic plans, manage facility expansion, and ensure operational excellence across all production lines.",
+        "location": "Grand Rapids, Michigan",
+        "salary_range": [
+          150000,
+          200000
+        ],
+        "seniority_level": "VP",
+        "required_skills": [
+          "Operations Management",
+          "Strategic Planning",
+          "P&L Management",
+          "Manufacturing Leadership"
+        ],
+        "experience_years": 15
+      }
+    ]
+  }
+]

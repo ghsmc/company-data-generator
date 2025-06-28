@@ -1,0 +1,4 @@
+anthropic
+pinecone
+requests
+python-dotenv

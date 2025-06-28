@@ -1,0 +1,212 @@
+[
+  {
+    "company_name": "Pulse Digital Networks",
+    "about": "A fast-growing digital media company specializing in streaming content production, podcast distribution, and interactive storytelling platforms. Known for creating innovative cross-platform media experiences and data-driven content strategies.",
+    "industry": "Media",
+    "size": "150-200 employees",
+    "roles": [
+      {
+        "title": "Content Acquisition Manager",
+        "department": "Content Strategy",
+        "description": "Lead content licensing negotiations and manage relationships with creators, studios, and production companies to expand our streaming content library.",
+        "location": "Los Angeles, CA",
+        "salary_range": [
+          85000,
+          120000
+        ]
+      },
+      {
+        "title": "Senior Media Planner",
+        "department": "Marketing",
+        "description": "Develop and execute strategic media plans across digital platforms, analyze campaign performance, and optimize content distribution strategies.",
+        "location": "New York, NY",
+        "salary_range": [
+          75000,
+          95000
+        ]
+      },
+      {
+        "title": "Digital Production Coordinator",
+        "department": "Production",
+        "description": "Coordinate digital content production workflows, manage project timelines, and ensure quality control for streaming and podcast content.",
+        "location": "Austin, TX",
+        "salary_range": [
+          45000,
+          65000
+        ]
+      }
+    ]
+  },
+  {
+    "company_name": "Horizon Transit Solutions",
+    "about": "A leading freight and logistics company providing comprehensive transportation services across North America, specializing in temperature-controlled shipping, intermodal transport, and supply chain optimization.",
+    "industry": "Transportation",
+    "size": "1,000-5,000 employees",
+    "roles": [
+      {
+        "title": "Transportation Operations Manager",
+        "department": "Operations",
+        "description": "Oversee daily fleet operations, coordinate dispatch activities, and optimize route efficiency while ensuring compliance with DOT regulations",
+        "location": "Chicago, IL",
+        "salary_range": [
+          75000,
+          95000
+        ]
+      },
+      {
+        "title": "Fleet Maintenance Supervisor",
+        "department": "Maintenance",
+        "description": "Manage vehicle maintenance programs, supervise technicians, and ensure fleet reliability while maintaining safety standards",
+        "location": "Dallas, TX",
+        "salary_range": [
+          65000,
+          85000
+        ]
+      },
+      {
+        "title": "Logistics Coordinator",
+        "department": "Logistics",
+        "description": "Coordinate freight movements, manage carrier relationships, and optimize shipping schedules to ensure timely delivery",
+        "location": "Atlanta, GA",
+        "salary_range": [
+          45000,
+          65000
+        ]
+      }
+    ]
+  },
+  {
+    "company_name": "SolarFlow Solutions",
+    "about": "Innovative solar energy technology company specializing in high-efficiency photovoltaic systems and smart grid integration solutions for residential and commercial properties",
+    "industry": "Energy",
+    "size": "50-200 employees",
+    "roles": [
+      {
+        "title": "Solar Project Manager",
+        "department": "Operations",
+        "description": "Lead and oversee residential and commercial solar installation projects from initiation to completion, managing timelines, budgets, and contractor relationships",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          75000,
+          95000
+        ]
+      },
+      {
+        "title": "Solar Design Engineer",
+        "department": "Engineering",
+        "description": "Design photovoltaic systems using CAD software, perform structural analyses, and create detailed technical documentation for installation teams",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          85000,
+          110000
+        ]
+      },
+      {
+        "title": "Energy Systems Analyst",
+        "department": "Technical",
+        "description": "Analyze energy consumption patterns, perform site assessments, and create optimization recommendations for maximizing solar system efficiency",
+        "location": "Scottsdale, Arizona",
+        "salary_range": [
+          65000,
+          85000
+        ]
+      },
+      {
+        "title": "Solar Sales Consultant",
+        "department": "Sales",
+        "description": "Develop and maintain client relationships, conduct site evaluations, and create customized solar solutions proposals for potential customers",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          60000,
+          100000
+        ]
+      }
+    ]
+  },
+  {
+    "company_name": "Apex Realty Partners",
+    "about": "A full-service commercial and residential real estate firm specializing in luxury properties, property management, and investment advisory services across the East Coast.",
+    "industry": "Real Estate",
+    "size": "250-500 employees",
+    "roles": [
+      {
+        "title": "Senior Real Estate Agent",
+        "department": "Sales",
+        "description": "Generate new business opportunities and manage client relationships for luxury residential properties, conduct property showings, and negotiate sales contracts.",
+        "location": "Boston, MA",
+        "salary_range": [
+          75000,
+          150000
+        ]
+      },
+      {
+        "title": "Property Portfolio Manager",
+        "department": "Property Management",
+        "description": "Oversee multiple commercial properties, manage tenant relationships, coordinate maintenance, and optimize property performance.",
+        "location": "New York, NY",
+        "salary_range": [
+          85000,
+          120000
+        ]
+      },
+      {
+        "title": "Real Estate Investment Analyst",
+        "department": "Investment Advisory",
+        "description": "Conduct market research, analyze property valuations, and prepare investment recommendations for institutional clients.",
+        "location": "Philadelphia, PA",
+        "salary_range": [
+          65000,
+          95000
+        ]
+      },
+      {
+        "title": "Commercial Leasing Director",
+        "department": "Commercial Division",
+        "description": "Lead commercial leasing operations, develop marketing strategies, and negotiate complex lease agreements with corporate clients.",
+        "location": "Boston, MA",
+        "salary_range": [
+          90000,
+          160000
+        ]
+      }
+    ]
+  },
+  {
+    "company_name": "SolarFlow Dynamics",
+    "about": "SolarFlow Dynamics specializes in developing and implementing advanced solar energy storage solutions and smart grid integration technologies. Our innovative battery systems and grid management software help utilities and businesses optimize their renewable energy usage.",
+    "industry": "Energy",
+    "size": "250-500 employees",
+    "roles": [
+      {
+        "title": "Solar Project Manager",
+        "department": "Operations",
+        "description": "Lead and oversee utility-scale solar installation projects from inception to completion, managing contractors and ensuring compliance with safety standards and regulations.",
+        "location": "Phoenix, Arizona",
+        "salary_range": [
+          85000,
+          120000
+        ]
+      },
+      {
+        "title": "Energy Storage Systems Engineer",
+        "department": "Engineering",
+        "description": "Design and optimize battery storage systems for solar applications, perform technical analysis, and develop integration solutions for existing power infrastructure.",
+        "location": "Austin, Texas",
+        "salary_range": [
+          95000,
+          145000
+        ]
+      },
+      {
+        "title": "Grid Integration Specialist",
+        "department": "Technical Operations",
+        "description": "Develop and implement strategies for integrating renewable energy systems into existing power grids, focusing on stability and efficiency optimization.",
+        "location": "Denver, Colorado",
+        "salary_range": [
+          90000,
+          130000
+        ]
+      }
+    ]
+  }
+]
